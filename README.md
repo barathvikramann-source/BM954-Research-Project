@@ -107,3 +107,19 @@ If you would like to make a direct contribution to improve this repository, plea
 ## LICENCE
 
 This repository is licensed under the Creative Commons Attribution-Sharealike 4.0 licence. Please see the [`LICENSE` file]([./LICENSE](https://github.com/sipbs-compbiol/template_bioinformatics_project/blob/master/LICENSE)) in this repository for further detail.
+# Papers
+
+## Paper 1
+- **Title:** A sensitive and specific genetically-encoded potassium ion 
+biosensor for in vivo applications across the tree of life
+- **Authors:** Wu et al.
+- **Journal:** PLOS Biology
+- **Year:** 2022
+- **DOI:** 10.1371/journal.pbio.3001772
+- **Where I found it:** Searched Google for KbpA related papers
+- **How I accessed it:** Opened from Google search results, downloaded 
+PDF from PLOS Biology website
+- **Date accessed:** 2026-06-01
+- **Saved to:** papers/Wu_2022.pdf
+- **Why it's relevant:** Describes GINKO2, an improved K⁺ biosensor 
+built using KbpA

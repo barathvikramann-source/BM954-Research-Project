@@ -1,0 +1,251 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	TR	D3H4S5	Potassium binding protein Kbp OS=Escherichia coli O44:H18 (strain 042 / EAEC) OX=216592 GN=EC042_2862 PE=4 SV=1	Escherichia coli O44:H18 (strain 042 / EAEC)	149	760	100.0	100.0	9.7e-102
+2	TR	A0AAD2S172	Potassium binding protein Kbp OS=Escherichia coli O6 OX=217992 GN=EIG44_14250 PE=4 SV=1	Escherichia coli O6	149	760	100.0	100.0	9.7e-102
+3	TR	A0A7K4HY61	Potassium binding protein Kbp OS=Escherichia fergusonii OX=564 GN=kbp PE=4 SV=1	Escherichia fergusonii	149	760	100.0	100.0	9.7e-102
+4	TR	A0A1S9K9M4	Potassium binding protein Kbp OS=Shigella dysenteriae OX=622 GN=ygaU PE=4 SV=1	Shigella dysenteriae	149	760	100.0	100.0	9.7e-102
+5	TR	E0J5N4	Potassium binding protein Kbp OS=Escherichia coli (strain ATCC 9637 / CCM 2024 / DSM 1116 / LMG 11080 / NBRC 13500 / NCIMB 8666 / NRRL B-766 / W) OX=566546 GN=ygaU PE=4 SV=1	Escherichia coli (strain ATCC 9637 / CCM 2024 / DSM 1116 / LMG 11080 / NBRC 13500 / NCIMB 8666 / NRRL B-766 / W)	149	760	100.0	100.0	9.7e-102
+6	TR	A0AAN4NS77	Potassium binding protein Kbp OS=Escherichia coli 1-250-04_S3_C1 OX=1444135 GN=AC00_3063 PE=4 SV=1	Escherichia coli 1-250-04_S3_C1	149	760	100.0	100.0	9.7e-102
+7	TR	A0A0H2Z1W8	Potassium binding protein Kbp OS=Escherichia coli O1:K1 / APEC OX=405955 GN=ygaU PE=4 SV=1	Escherichia coli O1:K1 / APEC	149	760	100.0	100.0	9.7e-102
+8	TR	Q1R838	Potassium binding protein Kbp OS=Escherichia coli (strain UTI89 / UPEC) OX=364106 GN=ygaU PE=4 SV=1	Escherichia coli (strain UTI89 / UPEC)	149	760	100.0	100.0	9.7e-102
+9	TR	B7LVS3	Potassium binding protein Kbp OS=Escherichia fergusonii (strain ATCC 35469 / DSM 13698 / CCUG 18766 / IAM 14443 / JCM 21226 / LMG 7866 / NBRC 102419 / NCTC 12128 / CDC 0568-73) OX=585054 GN=ygaU PE=4 SV=1	Escherichia fergusonii (strain ATCC 35469 / DSM 13698 / CCUG 18766 / IAM 14443 / JCM 21226 / LMG 7866 / NBRC 102419 / NCTC 12128 / CDC 0568-73)	149	760	100.0	100.0	9.7e-102
+10	TR	A0A454A6M6	Potassium binding protein Kbp OS=Escherichia coli O6:K15:H31 (strain 536 / UPEC) OX=362663 GN=ECP_2628 PE=4 SV=1	Escherichia coli O6:K15:H31 (strain 536 / UPEC)	149	760	100.0	100.0	9.7e-102
+11	TR	A0A828U2A0	Potassium binding protein Kbp OS=Escherichia coli DEC2D OX=868141 GN=ECDEC2D_3145 PE=4 SV=1	Escherichia coli DEC2D	149	760	100.0	100.0	9.7e-102
+12	TR	A0AAD2V649	Potassium binding protein Kbp OS=Escherichia coli O33 OX=1010802 GN=kbp PE=4 SV=1	Escherichia coli O33	149	760	100.0	100.0	9.7e-102
+13	TR	A0A4P8C124	Potassium binding protein Kbp OS=Escherichia coli O145:NM OX=991919 GN=lysM PE=4 SV=1	Escherichia coli O145:NM	149	760	100.0	100.0	9.7e-102
+14	TR	A0ABD7FQH3	Potassium binding protein Kbp OS=Escherichia coli O141:H4 OX=2861806 GN=kbp PE=4 SV=1	Escherichia coli O141:H4	149	760	100.0	100.0	9.7e-102
+15	TR	A0A0H3EK32	Potassium binding protein Kbp OS=Escherichia coli O83:H1 (strain NRG 857C / AIEC) OX=685038 GN=NRG857_13045 PE=4 SV=1	Escherichia coli O83:H1 (strain NRG 857C / AIEC)	149	760	100.0	100.0	9.7e-102
+16	TR	A0AAE5JZ25	Potassium binding protein Kbp OS=Shigella sonnei OX=624 GN=CI727_24275 PE=4 SV=1	Shigella sonnei	149	760	100.0	100.0	9.7e-102
+17	TR	A0A5R8R8F0	Potassium binding protein Kbp OS=Escherichia coli O25b:H4 OX=941280 GN=EWT59_22810 PE=4 SV=1	Escherichia coli O25b:H4	149	760	100.0	100.0	9.7e-102
+18	TR	B7UH84	Potassium binding protein Kbp OS=Escherichia coli O127:H6 (strain E2348/69 / EPEC) OX=574521 GN=ygaU PE=4 SV=1	Escherichia coli O127:H6 (strain E2348/69 / EPEC)	149	760	100.0	100.0	9.7e-102
+19	TR	Q32CR3	Potassium binding protein Kbp OS=Shigella dysenteriae serotype 1 (strain Sd197) OX=300267 GN=ygaU PE=4 SV=1	Shigella dysenteriae serotype 1 (strain Sd197)	149	760	100.0	100.0	9.7e-102
+20	TR	A0ABC7ZVM3	Potassium binding protein Kbp OS=Escherichia coli O145:H28 (strain RM12581) OX=1248823 GN=ygaU PE=4 SV=1	Escherichia coli O145:H28 (strain RM12581)	149	760	100.0	100.0	9.7e-102
+21	TR	A0A9Q6V107	Potassium binding protein Kbp OS=Escherichia coli O145 OX=1055538 GN=kbp PE=4 SV=1	Escherichia coli O145	149	760	100.0	100.0	9.7e-102
+22	TR	A0AA36KZU2	Potassium binding protein Kbp OS=Escherichia coli O25b:H4-ST131 OX=941322 GN=ygaU PE=4 SV=1	Escherichia coli O25b:H4-ST131	149	760	100.0	100.0	9.7e-102
+23	TR	A0A0E2L0Q8	Potassium binding protein Kbp OS=Escherichia coli (strain UMEA 3162-1) OX=1281200 GN=G925_02790 PE=4 SV=1	Escherichia coli (strain UMEA 3162-1)	149	760	100.0	100.0	9.7e-102
+24	TR	B7MKD6	Potassium binding protein Kbp OS=Escherichia coli O45:K1 (strain S88 / ExPEC) OX=585035 GN=ygaU PE=4 SV=1	Escherichia coli O45:K1 (strain S88 / ExPEC)	149	760	100.0	100.0	9.7e-102
+25	TR	A0AAN3M861	Potassium binding protein Kbp OS=Escherichia coli MS 85-1 OX=679202 GN=HMPREF9350_03633 PE=4 SV=1	Escherichia coli MS 85-1	149	760	100.0	100.0	9.7e-102
+26	TR	A0A9Q7YPG9	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=kbp PE=4 SV=1	Escherichia coli	149	760	100.0	100.0	9.7e-102
+27	TR	A0A398QZE0	Potassium binding protein Kbp OS=Shigella boydii OX=621 GN=kbp PE=4 SV=1	Shigella boydii	149	760	100.0	100.0	9.7e-102
+28	SP	P0ADE6	Potassium binding protein Kbp OS=Escherichia coli (strain K12) OX=83333 GN=kbp PE=1 SV=2	Escherichia coli (strain K12)	149	760	100.0	100.0	9.7e-102
+29	SP	P0ADE7	Potassium binding protein Kbp OS=Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC) OX=199310 GN=kbp PE=3 SV=2	Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)	149	760	100.0	100.0	9.7e-102
+30	TR	F4T3U5	Potassium binding protein Kbp OS=Escherichia coli M605 OX=656417 GN=ECIG_01217 PE=4 SV=1	Escherichia coli M605	158	760	100.0	100.0	1.3e-101
+31	TR	A0A0A6ZXI4	Potassium binding protein Kbp OS=Shigella dysenteriae 1617 OX=754093 GN=Asd1617_03835 PE=4 SV=1	Shigella dysenteriae 1617	158	760	100.0	100.0	1.3e-101
+32	TR	A0A090NLN6	Potassium binding protein Kbp OS=Shigella dysenteriae WRSd3 OX=1401327 GN=WRSd3_00669 PE=4 SV=1	Shigella dysenteriae WRSd3	158	760	100.0	100.0	1.3e-101
+33	TR	A0A1X3JD86	Potassium binding protein Kbp OS=Escherichia coli H386 OX=656397 GN=ECVG_01099 PE=4 SV=1	Escherichia coli H386	158	760	100.0	100.0	1.3e-101
+34	TR	A0A192CAK0	Potassium binding protein Kbp OS=Escherichia coli O25b:H4 OX=941280 GN=WLH_01669 PE=4 SV=1	Escherichia coli O25b:H4	158	760	100.0	100.0	1.3e-101
+35	TR	A0A2V2LIM0	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=ygaU PE=4 SV=1	Escherichia coli	149	759	99.3	100.0	1.4e-101
+36	TR	S1PSC3	Potassium binding protein Kbp OS=Escherichia coli KTE182 OX=1181728 GN=A13A_02815 PE=4 SV=1	Escherichia coli KTE182	149	759	99.3	100.0	1.4e-101
+37	TR	A0A5Q5ABA7	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=ygaU PE=4 SV=1	Escherichia coli	149	757	99.3	100.0	2.8e-101
+38	TR	W1XE72	Potassium binding protein Kbp OS=Escherichia coli DORA_A_5_14_21 OX=1403943 GN=Q609_ECAC00055G0003 PE=4 SV=1	Escherichia coli DORA_A_5_14_21	149	756	99.3	99.3	3.9e-101
+39	TR	A0ACD5G9H8	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=kbp PE=4 SV=1	Escherichia coli	149	756	99.3	99.3	3.9e-101
+40	TR	A0ACC5TW97	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=kbp PE=4 SV=1	Escherichia coli	149	756	99.3	99.3	3.9e-101
+41	TR	A0A0D8WE51	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=kbp PE=4 SV=1	Escherichia coli	149	756	99.3	99.3	3.9e-101
+42	TR	A0A1M0CYM4	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=kbp PE=4 SV=1	Escherichia coli	149	756	99.3	99.3	3.9e-101
+43	TR	Q0T198	Potassium binding protein Kbp OS=Shigella flexneri serotype 5b (strain 8401) OX=373384 GN=ygaU PE=4 SV=1	Shigella flexneri serotype 5b (strain 8401)	149	755	99.3	100.0	5.6e-101
+44	TR	I6DRD0	Potassium binding protein Kbp OS=Shigella boydii 4444-74 OX=766140 GN=SB444474_3526 PE=4 SV=1	Shigella boydii 4444-74	149	755	99.3	100.0	5.6e-101
+45	TR	A0AAV3H6X7	Potassium binding protein Kbp OS=Escherichia coli EC1870 OX=1005554 GN=ECEC1870_3710 PE=4 SV=1	Escherichia coli EC1870	149	755	99.3	100.0	5.6e-101
+46	TR	W1EUX3	Potassium binding protein Kbp OS=Escherichia coli ISC7 OX=1432555 PE=4 SV=1	Escherichia coli ISC7	149	755	99.3	100.0	5.6e-101
+47	TR	A0AAN1AEK4	Potassium binding protein Kbp OS=Escherichia coli O157:H7 OX=83334 GN=AU473_08610 PE=4 SV=1	Escherichia coli O157:H7	149	755	99.3	100.0	5.6e-101
+48	TR	A0A0H3JJM9	Potassium binding protein Kbp OS=Escherichia coli O157:H7 OX=83334 GN=ygaU PE=4 SV=1	Escherichia coli O157:H7	149	755	99.3	100.0	5.6e-101
+49	TR	A0AAP9MST9	Potassium binding protein Kbp OS=Escherichia coli O121 OX=1055537 GN=kbp PE=4 SV=1	Escherichia coli O121	149	755	99.3	100.0	5.6e-101
+50	TR	B7N6P9	Potassium binding protein Kbp OS=Escherichia coli O17:K52:H18 (strain UMN026 / ExPEC) OX=585056 GN=ygaU PE=4 SV=1	Escherichia coli O17:K52:H18 (strain UMN026 / ExPEC)	149	755	99.3	99.3	5.6e-101
+51	TR	B1LPD8	Potassium binding protein Kbp OS=Escherichia coli (strain SMS-3-5 / SECEC) OX=439855 GN=EcSMS35_2785 PE=4 SV=1	Escherichia coli (strain SMS-3-5 / SECEC)	149	755	99.3	99.3	5.6e-101
+52	TR	Q31X33	Potassium binding protein Kbp OS=Shigella boydii serotype 4 (strain Sb227) OX=300268 GN=ygaU PE=4 SV=1	Shigella boydii serotype 4 (strain Sb227)	149	755	99.3	100.0	5.6e-101
+53	TR	A7ZQ96	Potassium binding protein Kbp OS=Escherichia coli O139:H28 (strain E24377A / ETEC) OX=331111 GN=EcE24377A_2945 PE=4 SV=1	Escherichia coli O139:H28 (strain E24377A / ETEC)	149	755	99.3	100.0	5.6e-101
+54	TR	A0A9P2ID77	Potassium binding protein Kbp OS=Escherichia coli O8 OX=1010796 GN=DP913_16395 PE=4 SV=1	Escherichia coli O8	149	755	99.3	100.0	5.6e-101
+55	TR	A0AB36PG56	Potassium binding protein Kbp OS=Shigella flexneri 2a str. 301 OX=198214 GN=SF301_0901 PE=4 SV=1	Shigella flexneri 2a str. 301	149	755	99.3	100.0	5.6e-101
+56	TR	A0A0E0XYZ5	Potassium binding protein Kbp OS=Escherichia coli O104:H4 (strain 2011C-3493) OX=1133852 GN=O3K_06225 PE=4 SV=1	Escherichia coli O104:H4 (strain 2011C-3493)	149	755	99.3	100.0	5.6e-101
+57	TR	A0AAD2UE32	Potassium binding protein Kbp OS=Escherichia coli O103 OX=1055536 GN=kbp PE=4 SV=1	Escherichia coli O103	149	755	99.3	100.0	5.6e-101
+58	TR	B7LE82	Potassium binding protein Kbp OS=Escherichia coli (strain 55989 / EAEC) OX=585055 GN=ygaU PE=4 SV=1	Escherichia coli (strain 55989 / EAEC)	149	755	99.3	100.0	5.6e-101
+59	TR	A0A6N3R0N8	Potassium binding protein Kbp OS=Shigella flexneri CCH060 OX=754091 GN=SFCCH060_3263 PE=4 SV=1	Shigella flexneri CCH060	149	755	99.3	100.0	5.6e-101
+60	TR	A0AAN3V5N5	Potassium binding protein Kbp OS=Escherichia coli 4.0967 OX=869687 GN=EC40967_2771 PE=4 SV=1	Escherichia coli 4.0967	149	755	99.3	100.0	5.6e-101
+61	TR	I6CGW3	Potassium binding protein Kbp OS=Shigella flexneri K-315 OX=766150 GN=SFK315_3571 PE=4 SV=1	Shigella flexneri K-315	149	755	99.3	100.0	5.6e-101
+62	TR	F5NYZ2	Potassium binding protein Kbp OS=Shigella flexneri K-227 OX=766147 GN=SFK227_3392 PE=4 SV=1	Shigella flexneri K-227	149	755	99.3	100.0	5.6e-101
+63	TR	A0A7U9IX11	Potassium binding protein Kbp OS=Escherichia coli HVH 36 (4-5675286) OX=1280986 GN=G711_03128 PE=4 SV=1	Escherichia coli HVH 36 (4-5675286)	149	755	99.3	100.0	5.6e-101
+64	TR	Q3YYJ2	Potassium binding protein Kbp OS=Shigella sonnei (strain Ss046) OX=300269 GN=ygaU PE=4 SV=1	Shigella sonnei (strain Ss046)	149	755	99.3	100.0	5.6e-101
+65	TR	A0A6N3QQM9	Potassium binding protein Kbp OS=Shigella flexneri CDC 796-83 OX=945360 GN=SGF_00874 PE=4 SV=1	Shigella flexneri CDC 796-83	149	755	99.3	100.0	5.6e-101
+66	TR	B2U080	Potassium binding protein Kbp OS=Shigella boydii serotype 18 (strain CDC 3083-94 / BS512) OX=344609 GN=SbBS512_E3216 PE=4 SV=1	Shigella boydii serotype 18 (strain CDC 3083-94 / BS512)	149	755	99.3	100.0	5.6e-101
+67	TR	A0A4P7TJ18	Potassium binding protein Kbp OS=Shigella flexneri serotype 5a (strain M90T) OX=1086030 GN=kbp PE=4 SV=1	Shigella flexneri serotype 5a (strain M90T)	149	755	99.3	100.0	5.6e-101
+68	TR	A0A0H3PHU6	Potassium binding protein Kbp OS=Escherichia coli O157:H7 (strain EC869) OX=478008 GN=ECH7EC869_2913 PE=4 SV=1	Escherichia coli O157:H7 (strain EC869)	149	755	99.3	100.0	5.6e-101
+69	TR	A0A384L847	Potassium binding protein Kbp OS=Shigella flexneri OX=623 GN=ygaU PE=4 SV=1	Shigella flexneri	149	755	99.3	100.0	5.6e-101
+70	TR	A0A7Z1CZM0	Potassium binding protein Kbp OS=Shigella sonnei OX=624 GN=CI633_20390 PE=4 SV=1	Shigella sonnei	149	755	99.3	99.3	5.6e-101
+71	TR	A0AA35ANZ9	Potassium binding protein Kbp OS=Escherichia coli O26 str. RM8426 OX=1055533 GN=I3M_20750 PE=4 SV=1	Escherichia coli O26 str. RM8426	149	755	99.3	100.0	5.6e-101
+72	TR	A0A979GGP8	Potassium binding protein Kbp OS=Escherichia coli (strain SE11) OX=409438 GN=ECSE_2918 PE=4 SV=1	Escherichia coli (strain SE11)	149	755	99.3	100.0	5.6e-101
+73	TR	A0A836NBW3	Potassium binding protein Kbp OS=Escherichia coli 2-460-02_S1_C1 OX=1444044 GN=AB05_3203 PE=4 SV=1	Escherichia coli 2-460-02_S1_C1	149	755	99.3	100.0	5.6e-101
+74	TR	A0AAD2VDC1	Potassium binding protein Kbp OS=Escherichia coli O111 OX=1055535 GN=kbp PE=4 SV=1	Escherichia coli O111	149	755	99.3	100.0	5.6e-101
+75	TR	C3SYE7	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=kbp PE=4 SV=1	Escherichia coli	149	755	99.3	100.0	5.6e-101
+76	TR	A0A069CIJ3	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=lysM PE=4 SV=1	Escherichia coli	149	755	99.3	99.3	5.6e-101
+77	TR	A0A2S8DV57	Potassium binding protein Kbp OS=Shigella boydii OX=621 GN=ygaU PE=4 SV=1	Shigella boydii	149	755	99.3	100.0	5.6e-101
+78	TR	A0A383K0F4	Potassium binding protein Kbp OS=Shigella flexneri OX=623 GN=ygaU PE=4 SV=1	Shigella flexneri	149	755	99.3	100.0	5.6e-101
+79	TR	A0A9P2QXF1	Potassium binding protein Kbp OS=Escherichia coli O157 OX=1045010 GN=kbp PE=4 SV=1	Escherichia coli O157	149	755	99.3	100.0	5.6e-101
+80	TR	A0A0I4N5I8	Potassium binding protein Kbp OS=Shigella sonnei OX=624 GN=kbp PE=4 SV=1	Shigella sonnei	149	755	99.3	100.0	5.6e-101
+81	TR	A0A1X3IVY9	Potassium binding protein Kbp OS=Escherichia coli TA447 OX=656447 GN=ECXG_00818 PE=4 SV=1	Escherichia coli TA447	158	755	99.3	100.0	7.6e-101
+82	TR	B7MYW7	Potassium binding protein Kbp OS=Escherichia coli O81 (strain ED1a) OX=585397 GN=ygaU PE=4 SV=1	Escherichia coli O81 (strain ED1a)	149	754	99.3	99.3	8e-101
+83	TR	A0A330AXZ9	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=ygaU PE=4 SV=1	Escherichia coli	149	754	99.3	99.3	8e-101
+84	TR	A0AAN3LI30	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=kbp PE=4 SV=1	Escherichia coli	149	754	99.3	99.3	8e-101
+85	TR	A0A8E0FP37	Potassium binding protein Kbp OS=Escherichia coli 97.0246 OX=869670 GN=EC970246_2430 PE=4 SV=1	Escherichia coli 97.0246	149	753	98.7	99.3	1.1e-100
+86	TR	A0A826J8C9	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=kbp PE=4 SV=1	Escherichia coli	149	753	99.3	99.3	1.1e-100
+87	TR	A0A8T5WIA0	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=kbp PE=4 SV=1	Escherichia coli	149	752	98.7	98.7	1.6e-100
+88	TR	A0A0H3MNF4	Potassium binding protein Kbp OS=Escherichia coli O7:K1 (strain IAI39 / ExPEC) OX=585057 GN=ygaU PE=4 SV=1	Escherichia coli O7:K1 (strain IAI39 / ExPEC)	149	752	98.7	98.7	1.6e-100
+89	TR	A0AAJ3TYW5	Potassium binding protein Kbp OS=Escherichia coli H605 OX=656410 GN=EATG_01488 PE=4 SV=1	Escherichia coli H605	158	752	98.7	98.7	2.2e-100
+90	TR	A0A376NTC8	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=ygaU PE=4 SV=1	Escherichia coli	149	751	98.7	99.3	2.3e-100
+91	TR	A0AAV3I1K5	Potassium binding protein Kbp OS=Escherichia coli 3.4880 OX=1051347 GN=EC34880_3407 PE=4 SV=1	Escherichia coli 3.4880	149	751	98.7	99.3	2.3e-100
+92	TR	A0A2S8JYN4	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=ygaU PE=4 SV=1	Escherichia coli	148	750	99.3	99.3	3.1e-100
+93	TR	A0A7B3MLW6	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=kbp PE=4 SV=1	Escherichia coli	149	750	98.7	99.3	3.2e-100
+94	TR	A0A6D0XQT0	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=kbp PE=4 SV=1	Escherichia coli	149	750	98.7	98.7	3.2e-100
+95	TR	A0A403D4R3	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=DNX30_22880 PE=4 SV=1	Escherichia coli	149	749	98.7	98.7	4.6e-100
+96	TR	Q8X937	Potassium binding protein Kbp OS=Escherichia coli O157:H7 OX=83334 GN=ygaU PE=4 SV=2	Escherichia coli O157:H7	149	748	98.7	99.3	6.6e-100
+97	TR	A0A370V7G8	Potassium binding protein Kbp OS=Escherichia marmotae OX=1499973 GN=kbp PE=4 SV=1	Escherichia marmotae	149	748	98.0	98.7	6.6e-100
+98	TR	A0ABR8TI47	Potassium binding protein Kbp OS=Escherichia whittamii OX=2762229 GN=kbp PE=4 SV=1	Escherichia whittamii	148	747	98.6	98.6	9e-100
+99	TR	A0ABU1DQS7	Potassium binding protein Kbp OS=Escherichia ruysiae OX=2608867 GN=kbp PE=4 SV=1	Escherichia ruysiae	149	745	98.0	98.0	1.9e-99
+100	TR	A0A3R0X731	Potassium binding protein Kbp OS=Shigella dysenteriae OX=622 GN=DRW31_05475 PE=4 SV=1	Shigella dysenteriae	149	744	98.7	98.7	2.7e-99
+101	TR	A0A1S9JPT1	Potassium binding protein Kbp OS=Shigella boydii OX=621 GN=AJR17_001275 PE=4 SV=1	Shigella boydii	149	744	98.7	98.7	2.7e-99
+102	TR	A0A8S0FNL4	Potassium binding protein Kbp OS=Escherichia coli OX=562 GN=ygaU PE=4 SV=1	Escherichia coli	156	742	95.5	95.5	6.8e-99
+103	TR	A0ABF7T103	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Tudu OX=2021402 GN=DUC28_14625 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Tudu	149	724	94.0	96.6	3e-96
+104	TR	G5QL96	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Rubislaw str. A4-653 OX=913081 GN=LTSERUB_3518 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Rubislaw str. A4-653	149	724	94.0	96.6	3e-96
+105	TR	G5Q4K0	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Montevideo str. S5-403 OX=913242 GN=LTSEMON_3003 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Montevideo str. S5-403	149	724	94.0	96.6	3e-96
+106	TR	A0A6C6ZHL4	Potassium binding protein Kbp OS=Salmonella heidelberg (strain SL476) OX=454169 GN=SeHA_C2975 PE=4 SV=1	Salmonella heidelberg (strain SL476)	149	724	94.0	96.6	3e-96
+107	TR	A0A6C8LXA6	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Lubbock OX=2077273 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Lubbock	149	724	94.0	96.6	3e-96
+108	TR	A0A248KEL6	Potassium binding protein Kbp OS=Salmonella bongori serovar 66:z41:- str. SA19983605 OX=1243617 GN=LFZ56_05405 PE=4 SV=1	Salmonella bongori serovar 66:z41:- str. SA19983605	149	724	94.0	97.3	3e-96
+109	TR	A0A974KHW3	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Rough O:d:1,7 OX=1974323 GN=R537_08695 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Rough O:d:1,7	149	724	94.0	96.6	3e-96
+110	TR	A0AAJ8WWG6	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Choleraesuis str. SCSA50 OX=904139 GN=ygaU PE=4 SV=1	Salmonella enterica subsp. enterica serovar Choleraesuis str. SCSA50	149	724	94.0	96.6	3e-96
+111	TR	A0A2K0JF02	Potassium binding protein Kbp OS=Salmonella enterica subsp. houtenae serovar 50:g,z51:- OX=1173947 GN=RK55_011960 PE=4 SV=1	Salmonella enterica subsp. houtenae serovar 50:g,z51:-	149	724	94.0	96.6	3e-96
+112	TR	A0A5Y2QLA8	Potassium binding protein Kbp OS=Salmonella enterica subsp. arizonae OX=59203 GN=lysM PE=4 SV=1	Salmonella enterica subsp. arizonae	149	724	94.0	96.6	3e-96
+113	TR	A0A656ID81	Potassium binding protein Kbp OS=Salmonella enteritidis (strain 2009K0958) OX=1192586 GN=A673_04251 PE=4 SV=1	Salmonella enteritidis (strain 2009K0958)	149	724	94.0	96.6	3e-96
+114	TR	V7ISN9	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Cubana str. 76814 OX=1192560 GN=A628_02069 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Cubana str. 76814	149	724	94.0	96.6	3e-96
+115	TR	A0A6C8F2F2	Potassium binding protein Kbp OS=Salmonella virchow (strain SL491) OX=465517 GN=SeV_B2317 PE=4 SV=1	Salmonella virchow (strain SL491)	149	724	94.0	96.6	3e-96
+116	TR	V1H2K6	Potassium binding protein Kbp OS=Salmonella enterica subsp. indica serovar 6,14,25:z10:1,(2),7 str. 1121 OX=1173950 GN=SEI61121_13233 PE=4 SV=1	Salmonella enterica subsp. indica serovar 6,14,25:z10:1,(2),7 str. 1121	149	724	94.0	96.6	3e-96
+117	TR	G5NGZ0	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Inverness str. R8-3668 OX=913075 GN=LTSEINV_4174 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Inverness str. R8-3668	149	724	94.0	96.6	3e-96
+118	TR	A0A3Z2F7L5	Potassium binding protein Kbp OS=Salmonella typhimurium (strain ATCC 68169 / UK-1) OX=990282 GN=ygaU PE=4 SV=1	Salmonella typhimurium (strain ATCC 68169 / UK-1)	149	724	94.0	96.6	3e-96
+119	TR	A0A6C7A2X0	Potassium binding protein Kbp OS=Salmonella dublin (strain CT_02021853) OX=439851 GN=SeD_A3097 PE=4 SV=1	Salmonella dublin (strain CT_02021853)	149	724	94.0	96.6	3e-96
+120	TR	A0A0K0HDL7	Potassium binding protein Kbp OS=Salmonella bongori (strain ATCC 43975 / DSM 13772 / NCTC 12419) OX=218493 GN=SBG_2420 PE=4 SV=1	Salmonella bongori (strain ATCC 43975 / DSM 13772 / NCTC 12419)	149	724	94.0	97.3	3e-96
+121	TR	A0A6C8GYG5	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Uganda str. R8-3404 OX=913083 GN=LTSEUGA_3921 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Uganda str. R8-3404	149	724	94.0	96.6	3e-96
+122	TR	A0A8X6EU00	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Dublin str. SD3246 OX=909945 GN=ygaU PE=4 SV=1	Salmonella enterica subsp. enterica serovar Dublin str. SD3246	149	724	94.0	96.6	3e-96
+123	TR	A0A636P360	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Guildford OX=2564497 GN=CC928_15595 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Guildford	149	724	94.0	96.6	3e-96
+124	TR	A0A657FQE6	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Denver OX=1954177 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Denver	149	724	94.0	96.6	3e-96
+125	TR	A0A5J1TUR0	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Meleagridis OX=486999 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Meleagridis	149	724	94.0	96.6	3e-96
+126	TR	A0A6C7C5W7	Potassium binding protein Kbp OS=Salmonella enterica subsp. salamae serovar 55:k:z39 str. 1315K OX=1243602 GN=LFZ47_06005 PE=4 SV=1	Salmonella enterica subsp. salamae serovar 55:k:z39 str. 1315K	149	724	94.0	96.6	3e-96
+127	TR	A0A379XLQ1	Potassium binding protein Kbp OS=Salmonella enterica subsp. indica OX=59207 GN=ygaU PE=4 SV=1	Salmonella enterica subsp. indica	149	724	94.0	96.6	3e-96
+128	TR	A0A658IHV6	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Newport str. CFSAN000835 OX=1299174 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Newport str. CFSAN000835	149	724	94.0	96.6	3e-96
+129	TR	A0ACC5L512	Peptidoglycan-binding protein LysM OS=Salmonella enterica OX=28901 GN=lysM PE=4 SV=1	Salmonella enterica	149	724	94.0	96.6	3e-96
+130	TR	A0A5Y7ACT8	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Infantis str. CFSAN000522 OX=1299258 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Infantis str. CFSAN000522	149	724	94.0	96.6	3e-96
+131	TR	A0A5W7FB51	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Goldcoast OX=260678 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Goldcoast	149	724	94.0	96.6	3e-96
+132	TR	A0A3Z1ECX7	Potassium binding protein Kbp OS=Salmonella paratyphi B (strain ATCC BAA-1250 / SPB7) OX=1016998 GN=SPAB_03471 PE=4 SV=1	Salmonella paratyphi B (strain ATCC BAA-1250 / SPB7)	149	724	94.0	96.6	3e-96
+133	TR	Q8ZML9	Potassium binding protein Kbp OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=ygaU PE=4 SV=1	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	149	724	94.0	96.6	3e-96
+134	TR	A0A447NLP5	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Sanjuan OX=1160765 GN=ygaU PE=4 SV=1	Salmonella enterica subsp. enterica serovar Sanjuan	149	724	94.0	96.6	3e-96
+135	TR	A0A0H3BT84	Potassium binding protein Kbp OS=Salmonella newport (strain SL254) OX=423368 GN=SNSL254_A2992 PE=4 SV=1	Salmonella newport (strain SL254)	149	724	94.0	96.6	3e-96
+136	TR	B5RDC5	Potassium binding protein Kbp OS=Salmonella gallinarum (strain 287/91 / NCTC 13346) OX=550538 GN=ygaU PE=4 SV=1	Salmonella gallinarum (strain 287/91 / NCTC 13346)	149	724	94.0	96.6	3e-96
+137	TR	A0A0F6B5J6	Potassium binding protein Kbp OS=Salmonella typhimurium (strain 14028s / SGSC 2262) OX=588858 GN=ygaU PE=4 SV=1	Salmonella typhimurium (strain 14028s / SGSC 2262)	149	724	94.0	96.6	3e-96
+138	TR	Q57KX9	Potassium binding protein Kbp OS=Salmonella choleraesuis (strain SC-B67) OX=321314 GN=ygaU PE=4 SV=1	Salmonella choleraesuis (strain SC-B67)	149	724	94.0	96.6	3e-96
+139	TR	G5RZF6	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Urbana str. R8-2977 OX=913084 GN=LTSEURB_4191 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Urbana str. R8-2977	149	724	94.0	96.6	3e-96
+140	TR	A0A657I4V0	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Crewe OX=2572727 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Crewe	149	724	94.0	96.6	3e-96
+141	TR	M7RE21	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Dublin str. UC16 OX=1192688 GN=A670_03148 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Dublin str. UC16	149	724	94.0	96.6	3e-96
+142	TR	A0A5I8HS49	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Ouakam OX=1243585 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Ouakam	149	724	94.0	96.6	3e-96
+143	TR	A0A6C7IF88	Potassium binding protein Kbp OS=Salmonella typhimurium (strain D23580) OX=568708 GN=STMMW_27621 PE=4 SV=1	Salmonella typhimurium (strain D23580)	149	724	94.0	96.6	3e-96
+144	TR	G5R493	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Senftenberg str. A4-543 OX=913082 GN=LTSESEN_4375 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Senftenberg str. A4-543	149	724	94.0	96.6	3e-96
+145	TR	A0A447JDN3	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Daytona OX=1962639 GN=ygaU PE=4 SV=1	Salmonella enterica subsp. enterica serovar Daytona	149	724	94.0	96.6	3e-96
+146	TR	A0A2C9NWW2	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Macclesfield str. S-1643 OX=1242107 GN=LFZ25_05775 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Macclesfield str. S-1643	149	724	94.0	96.6	3e-96
+147	TR	A0A5J0F8Y2	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Vitkin OX=2565162 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Vitkin	149	724	94.0	96.6	3e-96
+148	TR	B5F318	Potassium binding protein Kbp OS=Salmonella agona (strain SL483) OX=454166 GN=SeAg_B2908 PE=4 SV=1	Salmonella agona (strain SL483)	149	724	94.0	96.6	3e-96
+149	TR	A0A6C7CVH9	Potassium binding protein Kbp OS=Salmonella enterica subsp. salamae serovar 56:b:[1,5] OX=2577858 GN=DOE57_05950 PE=4 SV=1	Salmonella enterica subsp. salamae serovar 56:b:[1,5]	149	724	94.0	96.6	3e-96
+150	TR	A0A0N1QVK4	Potassium binding protein Kbp OS=Salmonella schwarzengrund (strain CVM19633) OX=439843 GN=SeSA_A2940 PE=4 SV=1	Salmonella schwarzengrund (strain CVM19633)	149	724	94.0	96.6	3e-96
+151	TR	A0A659LY92	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Wernigerode OX=2565187 GN=C9F01_21945 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Wernigerode	149	724	94.0	96.6	3e-96
+152	TR	A0A5W0T786	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Worthington OX=1160769 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Worthington	149	724	94.0	96.6	3e-96
+153	TR	A0A5I0QUX6	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar London OX=149390 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar London	149	724	94.0	96.6	3e-96
+154	TR	A0A3T3IF73	Potassium binding protein Kbp OS=Salmonella dublin OX=98360 GN=lysM PE=4 SV=1	Salmonella dublin	149	724	94.0	96.6	3e-96
+155	TR	A0A5V7MAI7	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Poona OX=436295 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Poona	149	724	94.0	96.6	3e-96
+156	TR	A0A486WYK6	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Stanley OX=192953 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Stanley	149	724	94.0	96.6	3e-96
+157	TR	A0A3U9HMR5	Potassium binding protein Kbp OS=Salmonella infantis OX=595 GN=lysM PE=4 SV=1	Salmonella infantis	149	724	94.0	96.6	3e-96
+158	TR	A0A4U8A502	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Chester OX=149386 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Chester	149	724	94.0	96.6	3e-96
+159	TR	A0A1R2FSD3	Potassium binding protein Kbp OS=Salmonella enteritidis OX=149539 GN=lysM PE=4 SV=1	Salmonella enteritidis	149	724	94.0	96.6	3e-96
+160	TR	A0A0D6IIZ9	Potassium binding protein Kbp OS=Salmonella typhimurium OX=90371 GN=lysM PE=4 SV=1	Salmonella typhimurium	149	724	94.0	96.6	3e-96
+161	TR	A0A0M0PXR5	Potassium binding protein Kbp OS=Salmonella enterica OX=28901 GN=lysM PE=4 SV=1	Salmonella enterica	149	724	94.0	96.6	3e-96
+162	TR	A0A2T8RQE5	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar 4,12:i:- OX=353569 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar 4,12:i:-	149	724	94.0	96.6	3e-96
+163	TR	A0A4Y6M8Z7	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Indiana OX=286783 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Indiana	149	724	94.0	96.6	3e-96
+164	TR	A0A2T8XJW8	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Gaminara OX=913070 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Gaminara	149	724	94.0	96.6	3e-96
+165	TR	A0A2T9I9F3	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Agona OX=58095 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Agona	149	724	94.0	96.6	3e-96
+166	TR	A0A265BC91	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Heidelberg OX=611 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Heidelberg	149	724	94.0	96.6	3e-96
+167	TR	A0A5H6D859	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Mikawasima OX=149388 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Mikawasima	149	724	94.0	96.6	3e-96
+168	TR	A0A5W0W4U5	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Typhimurium var. 5- OX=1620419 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	149	724	94.0	96.6	3e-96
+169	TR	A0A5C5HHN3	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Give OX=46626 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Give	149	724	94.0	96.6	3e-96
+170	TR	A0A5J1R8S0	Potassium binding protein Kbp OS=Salmonella muenster OX=82689 GN=lysM PE=4 SV=1	Salmonella muenster	149	724	94.0	96.6	3e-96
+171	TR	A0A3V7I6Z0	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Weltevreden OX=57743 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Weltevreden	149	724	94.0	96.6	3e-96
+172	TR	A0A0H3NF10	Potassium binding protein Kbp OS=Salmonella typhimurium (strain SL1344) OX=216597 GN=ygaU PE=4 SV=1	Salmonella typhimurium (strain SL1344)	149	724	94.0	96.6	3e-96
+173	TR	A0A0R9P8B8	Potassium binding protein Kbp OS=Salmonella newport OX=108619 GN=lysM PE=4 SV=1	Salmonella newport	149	724	94.0	96.6	3e-96
+174	TR	A0A5J1IID2	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Sandiego OX=1151002 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Sandiego	149	724	94.0	96.6	3e-96
+175	TR	A0A659PDP0	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Wilhelmsburg OX=1960126 GN=C9E92_07310 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Wilhelmsburg	149	724	94.0	96.6	3e-96
+176	TR	A0A3V9PPS9	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Bredeney OX=134047 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Bredeney	149	724	94.0	96.6	3e-96
+177	TR	A0A5Y0B7U7	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Johannesburg OX=913076 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Johannesburg	149	724	94.0	96.6	3e-96
+178	TR	A0A3A3JAW1	Potassium binding protein Kbp OS=Salmonella montevideo OX=115981 GN=lysM PE=4 SV=1	Salmonella montevideo	149	724	94.0	96.6	3e-96
+179	TR	A0A3R0HP33	Potassium binding protein Kbp OS=Salmonella senftenberg OX=28150 GN=lysM PE=4 SV=1	Salmonella senftenberg	149	724	94.0	96.6	3e-96
+180	TR	A0A315I810	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar 4,[5],12:i:- OX=440524 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar 4,[5],12:i:-	149	724	94.0	96.6	3e-96
+181	TR	A0A403SQY2	Potassium binding protein Kbp OS=Salmonella thompson OX=600 GN=lysM PE=4 SV=1	Salmonella thompson	149	724	94.0	96.6	3e-96
+182	TR	A0A2T8LAI3	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Kentucky OX=192955 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Kentucky	149	724	94.0	96.6	3e-96
+183	TR	A0A3W0AR03	Potassium binding protein Kbp OS=Salmonella derby OX=28144 GN=lysM PE=4 SV=1	Salmonella derby	149	724	94.0	96.6	3e-96
+184	TR	A0A3G3DWP0	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Tennessee OX=143221 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Tennessee	149	724	94.0	96.6	3e-96
+185	TR	A0A3Y4EE39	Potassium binding protein Kbp OS=Salmonella enterica I OX=59201 GN=lysM PE=4 SV=1	Salmonella enterica I	149	724	94.0	96.6	3e-96
+186	TR	A0A3R8TFQ9	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Java OX=224729 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Java	149	724	94.0	96.6	3e-96
+187	TR	A0A0F5B9R3	Potassium binding protein Kbp OS=Salmonella enterica subsp. salamae OX=59202 GN=lysM PE=4 SV=1	Salmonella enterica subsp. salamae	149	724	94.0	96.6	3e-96
+188	TR	A0A5H8IMY7	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Reading OX=165302 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Reading	149	724	94.0	96.6	3e-96
+189	TR	A0A3T2YFH0	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Panama OX=29472 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Panama	149	724	94.0	96.6	3e-96
+190	TR	A0A5H9H354	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Uganda OX=487004 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Uganda	149	724	94.0	96.6	3e-96
+191	TR	A0A0T9XGE2	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Bovismorbificans OX=58097 GN=ygaU PE=4 SV=1	Salmonella enterica subsp. enterica serovar Bovismorbificans	149	724	94.0	96.6	3e-96
+192	TR	A0A6C7HT39	Potassium binding protein Kbp OS=Salmonella enteritidis PT4 (strain P125109) OX=550537 GN=ygaU PE=4 SV=1	Salmonella enteritidis PT4 (strain P125109)	149	724	94.0	96.6	3e-96
+193	TR	A0A5U9QFD3	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Albany OX=211968 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Albany	149	724	94.0	96.6	3e-96
+194	TR	A0A3T2ZJT7	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Schwarzengrund OX=340190 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Schwarzengrund	149	724	94.0	96.6	3e-96
+195	TR	A0A3W0FDG0	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Litchfield OX=486998 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Litchfield	149	724	94.0	96.6	3e-96
+196	TR	A0A4P9T5X5	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar 1,4,[5],12:i:- OX=2583588 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar 1,4,[5],12:i:-	149	724	94.0	96.6	3e-96
+197	TR	A0A4Z8ZAJ7	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Bareilly OX=58096 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Bareilly	149	724	94.0	96.6	3e-96
+198	TR	A0A418ZCW1	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Mbandaka OX=192954 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Mbandaka	149	724	94.0	96.6	3e-96
+199	TR	A0A3V7PH21	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Javiana OX=363569 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Javiana	149	724	94.0	96.6	3e-96
+200	TR	A0A5W2M1U4	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Lattenkamp OX=2564671 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Lattenkamp	149	724	94.0	96.6	3e-96
+201	TR	A0A2T8MLA6	Potassium binding protein Kbp OS=Salmonella anatum OX=58712 GN=lysM PE=4 SV=1	Salmonella anatum	149	724	94.0	96.6	3e-96
+202	TR	A0A3V2W3E1	Potassium binding protein Kbp OS=Salmonella hadar OX=149385 GN=lysM PE=4 SV=1	Salmonella hadar	149	724	94.0	96.6	3e-96
+203	TR	A0A3V2FQM0	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Braenderup OX=149391 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Braenderup	149	724	94.0	96.6	3e-96
+204	TR	A0A4Q8PD49	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Brancaster OX=2511819 GN=CC874_04995 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Brancaster	149	724	94.0	96.6	3e-96
+205	TR	A0A1S0ZJ58	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Saintpaul OX=90105 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Saintpaul	149	724	94.0	96.6	3e-96
+206	TR	A0A5J0CG25	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Telelkebir OX=1967657 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Telelkebir	149	724	94.0	96.6	3e-96
+207	TR	A0A2T9Q6H2	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Cerro OX=340188 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Cerro	149	724	94.0	96.6	3e-96
+208	TR	A0A3T3ESI3	Potassium binding protein Kbp OS=Salmonella muenchen OX=596 GN=lysM PE=4 SV=1	Salmonella muenchen	149	724	94.0	96.6	3e-96
+209	TR	A0A5Y7A507	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Choleraesuis str. CFSAN000515 OX=1299221 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Choleraesuis str. CFSAN000515	149	724	94.0	96.6	3e-96
+210	TR	A0A8F2ZXA4	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Bovismorbificans str. Sal610 OX=1430436 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Bovismorbificans str. Sal610	149	724	94.0	96.6	3e-96
+211	TR	A0A735IYU3	Potassium binding protein Kbp OS=Salmonella typhisuis OX=41529 GN=lysM PE=4 SV=1	Salmonella typhisuis	149	724	94.0	96.6	3e-96
+212	TR	A0AA86B8X4	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Enteritidis str. EC20120003 OX=1412467 GN=AU45_15070 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Enteritidis str. EC20120003	149	724	94.0	96.6	3e-96
+213	TR	A0A4D6P8B8	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000189 OX=1173427 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000189	149	724	94.0	96.6	3e-96
+214	TR	A0A729K9Q5	Potassium binding protein Kbp OS=Salmonella enterica subsp. houtenae serovar 18:z36,z38:- OX=2577510 GN=lysM PE=4 SV=1	Salmonella enterica subsp. houtenae serovar 18:z36,z38:-	149	724	94.0	96.6	3e-96
+215	TR	A0A6W0M7U6	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Duisburg OX=174641 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Duisburg	149	724	94.0	96.6	3e-96
+216	TR	A0A5H6AL89	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Offa OX=2564879 GN=DU925_19620 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Offa	149	724	94.0	96.6	3e-96
+217	TR	A0A3U8P9I9	Potassium binding protein Kbp OS=Salmonella berta OX=28142 GN=lysM PE=4 SV=1	Salmonella berta	149	724	94.0	96.6	3e-96
+218	TR	A0A6V9XPZ4	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Decatur OX=1128761 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Decatur	149	724	94.0	96.6	3e-96
+219	TR	A0A5V8Y5P9	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Kalamu OX=2564590 GN=DO575_17555 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Kalamu	149	724	94.0	96.6	3e-96
+220	TR	A0A5H6NYR6	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Adjame OX=2021403 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Adjame	149	724	94.0	96.6	3e-96
+221	TR	A0A603BLH0	Potassium binding protein Kbp OS=Salmonella enterica subsp. salamae serovar 50:b:z6 OX=1967621 GN=lysM PE=4 SV=1	Salmonella enterica subsp. salamae serovar 50:b:z6	149	724	94.0	96.6	3e-96
+222	TR	A0A5I0EYM6	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Kenya OX=2564610 GN=DOQ66_20785 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Kenya	149	724	94.0	96.6	3e-96
+223	TR	A0A5H9Q3N5	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Nima OX=940233 GN=DOW48_13365 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Nima	149	724	94.0	96.6	3e-96
+224	TR	A0A5W2AH97	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Pretoria OX=2564937 GN=DPD33_21060 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Pretoria	149	724	94.0	96.6	3e-96
+225	TR	A0A5I2DJT9	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Miami OX=286780 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Miami	149	724	94.0	96.6	3e-96
+226	TR	A0A636KGQ9	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Uzaramo OX=2565147 GN=CC877_19400 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Uzaramo	149	724	94.0	96.6	3e-96
+227	TR	A0A737F0G6	Potassium binding protein Kbp OS=Salmonella enterica subsp. indica serovar 45:a:e,n,x OX=1307500 GN=lysM PE=4 SV=1	Salmonella enterica subsp. indica serovar 45:a:e,n,x	149	724	94.0	96.6	3e-96
+228	TR	A0A5I8VDE8	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Stockholm OX=2565057 GN=DKU92_18685 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Stockholm	149	724	94.0	96.6	3e-96
+229	TR	A0A737NZF3	Potassium binding protein Kbp OS=Salmonella enterica subsp. houtenae serovar 44:z4,z24:- OX=1967610 GN=lysM PE=4 SV=1	Salmonella enterica subsp. houtenae serovar 44:z4,z24:-	149	724	94.0	96.6	3e-96
+230	TR	A0A735L7B1	Potassium binding protein Kbp OS=Salmonella enterica subsp. houtenae serovar 16:z4,z32:- OX=1307497 GN=lysM PE=4 SV=1	Salmonella enterica subsp. houtenae serovar 16:z4,z32:-	149	724	94.0	96.6	3e-96
+231	TR	A0A8E6KN01	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Paratyphi B str. CFSAN000540 OX=1299076 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Paratyphi B str. CFSAN000540	149	724	94.0	96.6	3e-96
+232	TR	A0A5H7LD03	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Hvittingfoss OX=486994 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Hvittingfoss	149	724	94.0	96.6	3e-96
+233	TR	A0A5I2XC50	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Ank OX=1173578 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Ank	149	724	94.0	96.6	3e-96
+234	TR	A0A737VGP0	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Sendai OX=363568 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Sendai	149	724	94.0	96.6	3e-96
+235	TR	A0A737HA08	Potassium binding protein Kbp OS=Salmonella enterica subsp. salamae serovar 42:f,g,t:-- OX=41518 GN=lysM PE=4 SV=1	Salmonella enterica subsp. salamae serovar 42:f,g,t:--	149	724	94.0	96.6	3e-96
+236	TR	A0AA86EP00	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Enteritidis str. EC20120686 OX=1412607 GN=AV85_15055 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Enteritidis str. EC20120686	149	724	94.0	96.6	3e-96
+237	TR	A0AA86K943	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Enteritidis str. EC20100134 OX=1412465 GN=AU43_13380 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Enteritidis str. EC20100134	149	724	94.0	96.6	3e-96
+238	TR	A0A8T9IMK5	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Abeokuta OX=2926665 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Abeokuta	149	724	94.0	96.6	3e-96
+239	TR	A0A5I9BEJ8	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Eko OX=2564391 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Eko	149	724	94.0	96.6	3e-96
+240	TR	A0AAT9MID6	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Abaetetuba str. ATCC 35640 OX=1208611 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Abaetetuba str. ATCC 35640	149	724	94.0	96.6	3e-96
+241	TR	A0A8E6NGB1	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Paratyphi B str. CFSAN000542 OX=1299078 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Paratyphi B str. CFSAN000542	149	724	94.0	96.6	3e-96
+242	TR	A0A5I4X2P5	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Durban OX=486992 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Durban	149	724	94.0	96.6	3e-96
+243	TR	A0A731Y0R7	Potassium binding protein Kbp OS=Salmonella enterica subsp. VII serovar 40:z4,z24:[z39] OX=1967625 GN=lysM PE=4 SV=1	Salmonella enterica subsp. VII serovar 40:z4,z24:[z39]	149	724	94.0	96.6	3e-96
+244	TR	A0A752RSK4	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Carrau OX=1160739 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Carrau	149	724	94.0	96.6	3e-96
+245	TR	A0A5V6VW61	Potassium binding protein Kbp OS=Salmonella ordonez OX=612 GN=DL145_21325 PE=4 SV=1	Salmonella ordonez	149	724	94.0	96.6	3e-96
+246	TR	A0AA86K5S4	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Enteritidis str. EC20100130 OX=1412464 GN=AU42_13355 PE=4 SV=1	Salmonella enterica subsp. enterica serovar Enteritidis str. EC20100130	149	724	94.0	96.6	3e-96
+247	TR	A0A509BC47	Potassium binding protein Kbp OS=Salmonella sp. NCTC 3046 OX=2583580 GN=ygaU PE=4 SV=1	Salmonella sp. NCTC 3046	149	724	94.0	96.6	3e-96
+248	TR	A0AAT9MUU0	Potassium binding protein Kbp OS=Salmonella enterica subsp. enterica serovar Newport str. WA_14882 OX=997339 GN=lysM PE=4 SV=1	Salmonella enterica subsp. enterica serovar Newport str. WA_14882	149	724	94.0	96.6	3e-96
+249	TR	A0A750KIF0	Potassium binding protein Kbp OS=Salmonella enterica OX=28901 GN=lysM PE=4 SV=1	Salmonella enterica	149	724	94.0	97.3	3e-96
+250	TR	A0A5H7LFL0	Potassium binding protein Kbp OS=Salmonella moscow OX=28146 GN=lysM PE=4 SV=1	Salmonella moscow	149	724	94.0	96.6	3e-96
