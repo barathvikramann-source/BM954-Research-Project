@@ -68,5 +68,15 @@
 
 
 
+14\. Searched RCSB/PDB using P0ADE6
 
+15\. Found 3 experimental structures:
+
+&#x20;   - 7PVC: Kbp.K with potassium bound, NMR, E. coli K-12 (2022)
+
+&#x20;   - 7VCM: GINKO1 crystal structure, X-ray 1.85A, E. coli K-12 (2022)
+
+&#x20;   - 8ZEX: HaloKbp1a biosensor, X-ray 1.66A, E. coli (2024)
+
+16\. Downloaded all 3 as .cif files and saved to structures/ folder
 
