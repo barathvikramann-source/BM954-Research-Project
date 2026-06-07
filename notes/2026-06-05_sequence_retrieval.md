@@ -80,3 +80,29 @@
 
 16\. Downloaded all 3 as .cif files and saved to structures/ folder
 
+
+
+\## Next
+
+
+
+17\. Installed MAFFT (v7.526) for Windows
+
+18\. Ran MAFFT alignment on 248 KbpA homologue sequences
+
+&#x20;   - Command: mafft --auto --reorder kbp\_homologues.fasta
+
+&#x20;   - Strategy: FFT-NS-i (iterative refinement)
+
+&#x20;   - Output saved as: results/alignments/kbp\_homologues\_aligned.fasta
+
+
+
+\## Next steps
+
+
+
+\- Visualise alignment in JalView
+
+\- Run MAFFT on InterPro sequences too
+
