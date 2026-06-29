@@ -290,7 +290,7 @@ Downloaded all 3 as .cif files and saved to structures/ folder
 
 
 
-\# 07-06-2026 - MAFFT Alignments and JalView Visualisation
+\# 07-06-2026 - MAFFT Alignments and JalView Visualisation ( Used Claude) for MAFFT
 
 
 
@@ -306,13 +306,13 @@ Run MAFFT alignments on both sequence sets and visualise them in JalView to chec
 
 
 
-\## Step 5: MAFFT Alignment - 248 UniProt sequences
+\## Step 5: MAFFT Alignment - 248 UniProt sequences ( Used Claude.ai for this command)
 
 
 
 Command I used:
 
-\& "C:\\Users\\Barath Vikraman\\Downloads\\mafft-7.526-win64-signed\\mafft-win\\mafft.bat" --auto --reorder sequences\\kbp\_homologues.fasta > results\\alignments\\kbp\_homologues\_aligned.fasta
+\& "C:\\Users\\Barath Vikraman\\Downloads\\mafft-7.526-win64-signed\\mafft-win\\mafft.bat" --auto --reorder sequences\\kbp\_homologues.fasta > results\\alignments\\kbp\_homologues\_aligned.fasta (CLAUDE.AI)
 
 
 
@@ -338,7 +338,7 @@ File size: 152,366 bytes
 
 
 
-\## Step 6: MAFFT Alignment - 500 NCBI sequences
+\## Step 6: MAFFT Alignment - 500 NCBI sequences ( Used Claude.ai) for allignment
 
 
 
@@ -462,7 +462,7 @@ Why this happened:
 
 
 
-How I fixed it:
+How I fixed it: (used claude.ai to fix this issue using a command)
 
 \- Ran these PowerShell commands to convert both files to UTF-8:
 
@@ -562,7 +562,7 @@ foreach ($line in $in) {
 
 }
 
-$out | Set-Content "sequences\\kbp\_interpro\_kbp\_only.fasta" -Encoding UTF8
+$out | Set-Content "sequences\\kbp\_interpro\_kbp\_only.fasta" -Encoding UTF8 (Coded using Claude.AI)
 
 
 
@@ -619,172 +619,6 @@ What I got back (first 100 sequences downloaded):
 \---
 
 
-
-\# 10-06-2026 - Literature Review
-
-
-
-\## What I read today
-
-
-
-I read all 4 key papers on KbpA so I can understand the protein well enough to interpret my alignments and decide which sequences to keep.
-
-
-
-\---
-
-
-
-\## Paper 1: Ashraf et al. 2016 (Structure) - PDB: 5FIM
-
-
-
-This is the foundational paper that first properly characterised Kbp.
-
-
-
-Key findings:
-
-\- Kbp binds a single K+ ion with Kd approximately 160 uM
-
-\- High selectivity for K+ over Na+
-
-\- The BON domain alone binds K+ but weakly (Kd about 20 mM)
-
-\- The LysM domain is needed to stabilise the K+-bound state and achieve the tight 160 uM affinity
-
-\- When K+ binds the protein shrinks dramatically: from 12.5 nm (open, no K+) to 6.5 nm (compact, K+ bound) - measured by SAXS
-
-\- Bacteria without Kbp grow fine at low K+ but show a 2-5 hour growth delay at high K+ - confirms it has a real physiological role
-
-\- NMR structure deposited as 5FIM but the exact K+ binding residues were not identified in this paper
-
-
-
-Why it matters for my project:
-
-\- Gives me the domain boundaries: BON is residues 1-89, LysM is 92-149
-
-\- Tells me both domains must be present for the protein to work properly
-
-\- This means I should exclude any sequences that are missing either domain
-
-
-
-\---
-
-
-
-\## Paper 2: Torres Caban et al. 2022 (ACS Sensors) - PDB: 7PVC
-
-
-
-This paper finally identified the exact K+ binding residues.
-
-
-
-Key findings:
-
-\- Used thallium (Tl+) as a K+ mimic in NMR - thallium produces scalar couplings that identify exactly which atoms touch the ion
-
-\- K+ is coordinated by the backbone carbonyls of: V7, A10, G75, I77, I80 in a distorted square pyramid
-
-\- K8 is a possible 6th ligand
-
-\- G75 and G11 must remain glycine - any other amino acid at these positions breaks the binding site
-
-\- Also did genome mining: searched a metagenomic database and found 4 homologues at 45-72% identity from P. aeruginosa, compost, hydrothermal vent, and Defluviicoccus sp.
-
-\- All 4 homologues retained K+ binding function despite sequence differences
-
-
-
-Why it matters for my project:
-
-\- Gives me the exact residues to check are conserved in my alignment: V7, A10, G75, I77, I80
-
-\- G75 and G11 conservation is a key filter criterion - if a sequence does not have glycine at these positions it probably cannot bind K+
-
-\- The genome mining part is very similar to what I am doing - good to know it has been done before and found functional homologues at \~50% identity
-
-
-
-\---
-
-
-
-\## Paper 3: Wu et al. 2022 (PLOS Biology) - PDB: 7VCM
-
-
-
-This paper solved the crystal structure of GINKO1.
-
-
-
-Key findings:
-
-\- Crystal structure of GINKO1 (Kbp inserted into EGFP) at 1.85 Angstrom resolution
-
-\- Confirms K+ is coordinated by 6 backbone carbonyls: V154, K155, A157, G222, I224, I227 in GINKO1 numbering
-
-\- These correspond to V7, K8, A10, G75, I77, I80 in Kbp numbering
-
-\- Binding site is in the BON domain right at the interface with the LysM domain
-
-\- Used the structure to engineer GINKO2 with higher K+ sensitivity
-
-\- GINKO2 works in vivo in bacteria, plants and mice
-
-
-
-Why it matters for my project:
-
-\- The crystal structure gives the best structural evidence for the binding site
-
-\- The Fe markers I see in JalView secondary structure annotation correspond directly to these residues
-
-\- Confirms the residues I need to check in my alignment
-
-
-
-\---
-
-
-
-\## Paper 4: Cheng et al. 2024 (JACS) - PDB: 8ZEX
-
-
-
-The most recent paper on Kbp-based sensors.
-
-
-
-Key findings:
-
-\- Made HaloKbp1 series by inserting Kbp into HaloTag7 (a self-labelling protein tag)
-
-\- Labelled with rhodamine dyes to get red/far-red fluorescence - better for imaging in cells than green sensors
-
-\- Range of Kd values covering physiological K+ concentrations
-
-\- Suitable for detecting K+ changes caused by BK channel activation
-
-\- Crystal structure deposited as 8ZEX
-
-
-
-Why it matters for my project:
-
-\- Shows Kbp is still being actively used and engineered
-
-\- Having a third crystal structure (8ZEX) alongside 7PVC and 7VCM is useful for structural comparison
-
-\- Demonstrates that diverse homologues with different binding affinities are valuable for sensor engineering - which is exactly why genome mining is worth doing
-
-
-
-\---
 
 
 
@@ -881,4 +715,314 @@ A sequence should be removed if:
 \- Structural comparison of 7PVC, 7VCM, 8ZEX in PyMOL or ChimeraX
 
 \- Phylogenetic analysis with IQ-TREE once alignment is finalised
+
+
+
+\---
+
+
+
+\# 11-06-2026 - InterPro Subsampling, MAFFT in JalView, Repository Cleanup
+
+
+
+\## What I did today
+
+
+
+\- Ran the subsampling script on kbp\_interpro\_kbp\_only.fasta to get a manageable dataset
+
+&#x20;   - Took every 10th sequence from the 1,960 filtered sequences
+
+&#x20;   - Result: 196 sequences saved as sequences/kbp\_interpro\_subsample.fasta
+
+
+
+\- Opened kbp\_interpro\_subsample.fasta in JalView
+
+&#x20;   - Ran MAFFT alignment using Web Service > Alignment > MAFFT with Defaults
+
+&#x20;   - 196 sequences, ran successfully via JalView web service
+
+&#x20;   - Applied Clustal colouring
+
+&#x20;   - Two conserved blocks visible corresponding to BON domain (left) and LysM domain (right)
+
+&#x20;   - Conservation and Quality tracks show strongest conservation at K+ binding residue positions
+
+&#x20;   - Saved alignment as results/alignments/kbp\_interpro\_subsample\_aligned.fa
+
+
+
+\- Cleaned up repository in response to Issue #2 raised by Dr Pritchard (widdowquinn)
+
+&#x20;   - Removed all template folders not relevant to the project
+
+&#x20;   - Deleted: data/, docs/, notebooks/, scripts/, \_config.yml
+
+&#x20;   - Deleted: results/conservation/, results/positive\_selection/, results/README.md
+
+&#x20;   - Commit fcfbc28 - closes Issue #2
+
+
+
+\## Issues today
+
+
+
+\- JalView web service MAFFT has a limit of 1000 sequences - could not run on full 1,960 sequence dataset
+
+&#x20;   - Solved by subsampling to 196 sequences first
+
+
+
+\## Next steps
+
+
+
+\- Run new BLAST search with BLOSUM45 to get sequences from outside Enterobacteriaceae
+
+\- Apply filtering criteria to sequence dataset
+
+\- Map K+ binding residues V7, A10, G75, I77, I80 onto alignment in JalView
+
+\- Structural comparison of 7PVC, 7VCM, 8ZEX in PyMOL or ChimeraX
+
+\- Phylogenetic analysis with IQ-TREE
+
+
+
+What I did today (14,15-06-2026)
+
+
+
+Step 1 - UniProt 50% identity homologues
+
+
+
+
+
+Ran BLAST on UniProt against UniProtKB database using query P0ADE6 (Kbp, E. coli K12, 149 aa)
+
+Filtered results to identity range 50-100%
+
+Retrieved 588 filtered hits
+
+Downloaded accession list and performed ID mapping (removed TR:/SP: prefixes)
+
+Result: 1,000 sequences saved as kbp\_uniprot\_50pct.fasta
+
+
+
+
+
+
+
+Step 2 - InterPro domain sequences
+
+
+
+
+
+Identified Kbp domain architecture: BON domain (PF04972, residues 23-91) + LysM domain (PF01476, residues 92-149)
+
+Visited InterPro PF04972 entry - 26k proteins found (too broad, BON domain alone too common)
+
+Step deferred - will revisit using combined domain architecture filter (PF04972 + PF01476)
+
+
+
+
+
+Step 3 - NCBI BLAST against ClusteredNR
+
+
+
+
+
+Ran BLASTP on NCBI using query P0ADE6 against ClusteredNR database
+
+RID: 2ZJEF9F0016
+
+Retrieved 1,000 cluster representative sequences
+
+Downloaded as FASTA (cluster) format
+
+Saved as kbp\_ncbi\_clusternr.fasta
+
+Noted outliers: 28 fragments <100 aa, 8 fusion proteins >300 aa (e.g. 8ZEX\_A at 484 aa)
+
+
+
+
+
+Step 4 - Combine sequences (JalView)
+
+
+
+
+
+Opened kbp\_uniprot\_50pct.fasta in JalView (File → Input Alignment → From File)
+
+Loaded kbp\_ncbi\_clusternr.fasta into same window (File → Load Sequences into Alignment)
+
+Combined dataset: 2,000 sequences
+
+Saved as kbp\_combined.fa
+
+
+
+
+
+Step 5 - Remove redundant sequences and fusion proteins (JalView)
+
+
+
+
+
+Calculate → Remove Redundancy at 100% threshold → removed 310 exact duplicates → 1,690 sequences
+
+Sorted by length (Calculate → Sort → By Length)
+
+Removed fragments <120 aa and fusion proteins >250 aa → 1,677 sequences
+
+Saved as kbp\_combined\_cleaned.fa
+
+
+
+
+
+Step 6 - MAFFT alignment
+
+
+
+
+
+Submitted kbp\_combined\_cleaned.fa to MAFFT online server (https://mafft.cbrc.jp/alignment/server/)
+
+Strategy: --auto
+
+Output: 1,629 sequences (some removed during alignment)
+
+Saved as results/alignments/kbp\_aligned.fasta
+
+Loaded into JalView - two conserved blocks visible (BON domain and LysM domain regions)
+
+Conservation and Quality tracks confirm strong conservation at functional residue positions
+
+
+
+
+
+
+
+
+
+Issues today
+
+
+
+
+
+UniProt BLAST download interface does not support filtered FASTA download directly - had to use accession list + ID mapping workaround
+
+NCBI BLAST downloaded as .txt - had to manually rename to .fasta for JalView compatibility
+
+JalView Remove Redundancy at 90% threshold too aggressive for this protein family (nearly all sequences identical at that level) - kept at 100% for exact duplicate removal only
+
+
+
+
+
+Next steps
+
+
+
+
+
+Complete Step 7 - finish removing sequences lacking conserved BON domain residues (Q64, T91, N76)
+
+Step 8 - save final curated alignment with appropriate filename
+
+Step 9 - reduce dataset using CD-HIT or JalView at appropriate identity threshold (suggest 60-70%)
+
+Return to Step 2 - retrieve InterPro sequences using combined domain filter (PF04972 + PF01476)
+
+Map K+ binding residues V7, A10, G75, I77, I80 onto alignment in JalView
+
+Structural comparison of 7PVC, 7VCM, 8ZEX in PyMOL or ChimeraX
+
+Phylogenetic analysis with IQ-TREE
+
+
+
+
+
+\## What i did today (20,22-06-26)
+
+
+
+Structural analysis of 8ZEX (HaloKbp1a)
+
+8ZEX is the engineered potassium biosensor — the Kbp protein inserted into HaloTag7 (Cheng et al. 2024). I wanted to map sequence conservation onto it and see whether the potassium-binding site is conserved, applying the same method my professor showed me on 7PVC.
+
+1\. I opened the structure.
+
+open 8ZEX
+
+I used this to load the 8ZEX structure into ChimeraX so I could work on it.
+
+2\. I loaded my sequence alignment and associated it.
+
+
+
+(File → Open → kbp\_interpro\_subsample\_aligned.fa)
+
+
+
+I did this so ChimeraX could compare my structure's sequence against 195 related Kbp proteins and work out how conserved each position is. It associated with 13 mismatches (the wild-type 7PVC had 0 — so these 13 are the engineered mutations).
+
+3\. I coloured the structure by conservation.
+
+**color byattribute seq\_conservation**
+
+I used this to colour each residue by how conserved it is — red = conserved, blue = variable. The Log showed the score range was −1.43 to 1.99. I saw the conserved (red) residues clustered around the potassium, and the HaloTag7 part stayed uncoloured because it isn't part of the Kbp family.
+
+4\. I selected the conserved residues.
+
+**select ::seq\_conservation > 0.5**
+
+I used this to pick out only the conserved positions so I could see how many there were and where they sat → 39 residues, clustered at the binding site.
+
+5\. I tightened the cutoff to check the conservation was strong.
+
+**select ::seq\_conservation > 1.0**
+
+I raised the threshold to test whether the conserved residues were borderline or genuinely strong → still 30 residues, barely fewer, still at the site. This showed the conservation is concentrated, not cutoff-dependent.
+
+6\. I selected the variable residues for comparison.
+
+**select ::seq\_conservation < 0.5**
+
+→ 101 residues, mostly on the outer surface. So most of the protein is free to vary; only a minority at the site is conserved.
+
+7\. I looked at how the potassium is held. I drew the contacts/H-bonds around the ion, then cleaned up the view:
+
+**hide solvent**
+
+I used this to hide the water molecules (the red dots) so they didn't clutter the view.
+
+8\. I zoomed in on the potassium.
+
+**view :K**
+
+I used this to centre and zoom on the potassium ion so I could see the pocket up close.
+
+9\. I coloured by element (heteroatom button) so the oxygens showed as red. This let me see that the contacts gripping the potassium come from the backbone of the conserved loops (main-chain carbonyl oxygens), not side chains — the channel-style coordination.
+
+10\. I noted the "8 residues" gap = the disordered loop A162–K169, which couldn't be resolved. It's away from the binding site, so it doesn't affect the coordination analysis.
+
+11\. Observed n and c linker in the structure.
+
+
 
