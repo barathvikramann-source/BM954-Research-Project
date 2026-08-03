@@ -1,0 +1,11 @@
+# Section 2.8 — ChimeraX superposition and Ca displacement measurements
+# Models: #1 = 7PVC NMR ensemble, #2 = Klebsiella AlphaFold,
+#         #3 = Trabulsiella AlphaFold, #4 = E. coli P0ADE6 AlphaFold
+
+matchmaker #4 to #1.1
+matchmaker #2 to #4
+matchmaker #3 to #4
+distance #2:77@CA #4:77@CA
+distance #2:80@CA #4:80@CA
+distance #3:77@CA #4:77@CA
+distance #3:80@CA #4:80@CA

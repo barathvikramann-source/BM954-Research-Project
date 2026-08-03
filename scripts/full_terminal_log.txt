@@ -1,0 +1,542 @@
+    1  pwd
+    2  ls
+    3  cd BM954-Research-Project/
+    4  ls
+    5  cd data
+    6  ls
+    7  cd 
+    8  ls
+    9  exit
+   10  ls
+   11  mkdir bm954-project
+   12  ls
+   13  cd ~
+   14  mkdir BM954-Project
+   15  cd BM954-Project/
+   16  ls
+   17  cd ~
+   18  ls
+   19  cd BM954-Research-Project/
+   20  ls
+   21  nano README.md
+   22  exit
+   23  ls
+   24  cd ~
+   25  ls
+   26  cd BM954-Research-Project/
+   27  ls
+   28  cd results
+   29  ls
+   30  ls conservation
+   31  ls
+   32  cd -
+   33  mkdir sequences
+   34  ls
+   35  cd ~
+   36  ls
+   37  cd BM954-Research-Project/
+   38  ls
+   39  cd/mnt/c/Users/barath_vikraman/Documents
+   40  ls/mnt/c/Users
+   41  cd~
+   42  cd ~
+   43  ls/mnt/c/Users
+   44  ls /mnt
+   45  ls /mnt/c
+   46  ls
+   47  cd BM954-Research-Project/
+   48  ls
+   49  ls sequences
+   50  cd sequences
+   51  ls
+   52  cd sequences.txt
+   53  cd ~
+   54  cd BM954-Research-Project/
+   55  git status
+   56  git add.
+   57  git add
+   58  git add .
+   59  git init
+   60  git status
+   61  git remote add origin https://github.com/barathvikramann-source/BM954-Research-Project.git
+   62  git add.
+   63  git add .
+   64  git commit -m "Add README and project folders"
+   65  git config --global user.name"barath Vikraman"
+   66  git config--global user.name "Barath Vikraman"
+   67  git config --global user.name "Barath Vikraman"
+   68  git config --global user.email "barath.vikramann@gmail.com"
+   69  git add.
+   70  git add .
+   71  git commit -m "Add README and project folders"
+   72  git push -u origin main
+   73  git remote -v
+   74  git config --global credential.helper
+   75  git push -u origin main
+   76  git credential-manager erase
+   77  pwd
+   78  ls
+   79  git status
+   80  git push -u origin main
+   81  git branch
+   82  git push -u origin master
+   83  git add data/kdpA_ecoli.fasta
+   84  cd data
+   85  ls
+   86  cd raw
+   87  ls
+   88  cd\
+   89  cd/
+   90  cd ~
+   91  cd
+   92  ls
+   93  cd BM954-Research-Project/
+   94  ls
+   95  cd sequences
+   96  ls
+   97  pwd
+   98  ls /mnt/c/Users
+   99  cd Barath Vikraman
+  100  cd 'Barath Vikraman'
+  101  cd
+  102  ls /mnt/c/Users
+  103  ls /mnt/c/Users/BarathVikraman/Documents
+  104  ls
+  105  cd BM954-Research-Project/
+  106  ls
+  107  cd sequences
+  108  ls
+  109  ls "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences/"
+  110  cp "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences/kdpA_ecoli.fasta" ~/bm954-project/data/
+  111  cp "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences/kdpA_ecoli.fasta.txt" ~/bm954-project/data/
+  112  cp "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences/kdpA_ecoli.fasta" ~/BM954-Research-Project/sequences
+  113  ls
+  114  pwd
+  115  ls "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences/"
+  116  cp "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences/kdpA_ecoli.fasta.txt" ~/bm954-project/data/
+  117  cp "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences/kdpA_ecoli.fasta" ~/bm954-project/data/
+  118  mkdir -p ~/bm954-project/data
+  119  cp "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences/kdpA_ecoli.fasta" ~/bm954-project/data/
+  120  cp "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences/kdpA_ecoli.fasta.txt" ~/bm954-project/data/
+  121  ls ~bm954-project/data
+  122  pwd
+  123  cd
+  124  ls
+  125  cd bm954-project
+  126  ls
+  127  cd data
+  128  ls
+  129  cd
+  130  ls
+  131  cd BM954-Research-Project/
+  132  ls
+  133  data
+  134  cd data
+  135  ls
+  136  cd cleaned
+  137  ls
+  138  cd
+  139  ls
+  140  cd BM954-Research-Project/
+  141  LS
+  142  ls
+  143  cd sequences 
+  144  ls
+  145  cp ~/bm954-project/data/kdpA_ecoli.fasta "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences/"
+  146  cd
+  147  cp ~/bm954-project/data/kdpA_ecoli.fasta "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences/"
+  148  cp ~/bm954-project/data/kdpA_ecoli.fasta.txt "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences/"
+  149  ls
+  150  cd BM954-Research-Project/
+  151  ls
+  152  cd sequences
+  153  ls
+  154  cd
+  155  cd"/mnt/c/Users/Barath Vikraman/BM954-Research-Project"
+  156  cd "/mnt/c/Users/Barath Vikraman/BM954-Research-Project"
+  157  ls
+  158  cd sequences
+  159  ls
+  160  head kdpA_ecoli.fasta.txt
+  161  cd "/mnt/c/Users/Barath Vikraman/BM954-Research-Project"
+  162  git status
+  163  ls
+  164  git add sequences/kdpA_ecoli.fasta.txt
+  165  git commit -m "Add kdpa-ecoli.fasta sequence"
+  166  git push
+  167  git pull origin master
+  168  git push origin master
+  169  git pull origin main
+  170  git pull origin master
+  171  git pull --no-rebase origin master
+  172  git add .
+  173  git commit -m "Save local changes"
+  174  git pull --no-rebase origin master
+  175  git push origin master
+  176  git status
+  177  cd ~
+  178  ls
+  179  cd BM954-Research-Project/
+  180  ls
+  181  cd sequences
+  182  ls
+  183  cd "/mnt/c/Users/Barath Vikraman/BM954-Research-Project"
+  184  ls
+  185  cd sequences
+  186  ls
+  187  head kdpA_ecoli.fasta.txt 
+  188  cd-
+  189  cd -
+  190  ls
+  191  cd papers
+  192  ls
+  193  head The-Potassium-Binding-Protein-Kbp-Is-a-Cytoplasmic.pdf 
+  194  git add The-Potassium-Binding-Protein-Kbp-Is-a-Cytoplasmic.pdf 
+  195  git commit "The-Potassium-Binding-Protein-Kbp-Is-a-Cytoplasmic.pdf" 
+  196  git commit -m" add pdf"
+  197  git push orgin master
+  198  git push origin master
+  199  git status
+  200  wsl shutdown
+  201  exit
+  202  wget https://mafft.cbrc.jp/alignment/software/mafft_7.526-1_amd64.deb
+  203  sudo dpkg -i mafft_7.526-1_amd64.deb
+  204  wget https://mafft.cbrc.jp/alignment/software/mafft_7.526-1_amd64.deb
+  205  sudo dpkg -i mafft_7.526-1_amd64.deb
+  206  wget https://mafft.cbrc.jp/alignment/software/mafft_7.526-1_amd64.deb
+  207  sudo dpkg -i mafft_7.526-1_amd64.deb
+  208  wget https://mafft.cbrc.jp/alignment/software/mafft_7.526-1_amd64.deb
+  209  sudo dpkg -i mafft_7.526-1_amd64.deb
+  210  $ sudo dpkg -i mafft_7.526-1_amd64.deb
+  211  sudo dpkg -i mafft_7.526-1_amd64.deb
+  212  curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+  213  bash Miniconda3-latest-Linux-x86_64.sh 
+  214  curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
+  215  ls
+  216  bash Miniforge3-Linux-aarch64.sh 
+  217  conda config --add channels bioconda
+  218  ls ~
+  219  ls ~ -la
+  220  source ~.bashrc
+  221  source ~/.bashrc
+  222  conda config --add channels bioconda
+  223  conda config --add channels conda-forge
+  224  conda config --set channel_priority strict
+  225  conda install mafft
+  226  mafft -h
+  227  cd location
+  228  cd "C:\Users\Barath Vikraman\BM954-Research-Project\results\blast combined 15-06-2026"
+  229  cd "/Users/Barath Vikraman/BM954-Research-Project/results/blast combined 15-06-2026"
+  230  cd "C/Users/Barath Vikraman/BM954-Research-Project/results/blast combined 15-06-2026"
+  231  ls /
+  232  ls
+  233  cd BM954-Research-Project/
+  234  ls
+  235  cd results
+  236  ls
+  237  cd ../../
+  238  ls
+  239  cd BM954-Project/
+  240  ls
+  241  time mafft --reorder kbp_combined.fa > kbp_combined_aligned.fa
+  242  ls
+  243  cd BM954-Research-Project/
+  244  ls
+  245  ls results
+  246  notepad notes\2026-06-05_sequence_retrieval.md
+  247  cat notebooks/2026-06-05_sequence_retrieval.md
+  248  find . -name "*.md" | head -20
+  249  $in = Get-Content "sequences\kbp_interpro_kbp_only.fasta"
+  250  $out = @()
+  251  $count = 0
+  252  $keep = $false
+  253  foreach ($line in $in) {
+  254  }
+  255  $out | Set-Content "sequences\kbp_interpro_subsample.fasta" -Encoding UTF8
+  256  Write-Host "Sequences sampled: $(($out | Where-Object { $_ -match '^>' }).Count)"
+  257  $in = Get-Content "sequences\kbp_interpro_kbp_only.fasta"
+  258  $out = @()
+  259  $count = 0
+  260  $keep = $false
+  261  foreach ($line in $in) {
+  262  }
+  263  $out | Set-Content "sequences\kbp_interpro_subsample.fasta" -Encoding UTF8
+  264  Write-Host "Sequences sampled: $(($out | Where-Object { $_ -match '^>' }).Count)"
+  265  cd BM954-Research-Project/
+  266  ls
+  267  cd sequences
+  268  mafft --auto kbp_interpro_similar.fasta > kbp_interpro_similar_aligned.fasta
+  269  ~/BM954-Research-Project/sequences$
+  270  ls
+  271  C:\Users\Barath Vikraman\BM954-Research-Project\sequences\kbp_interpro_similar.fasta
+  272  ls C:\Users\Barath Vikraman\BM954-Research-Project\sequences\kbp_interpro_similar.fasta
+  273  ls
+  274  mafft
+  275  conda config --add channels bioconda
+  276  conda config --add channels conda-forge
+  277  conda config --set channel_priority strict
+  278  ls
+  279  cd BM954-Research-Project/
+  280  ls
+  281  cd sequences
+  282  ls
+  283  cd-
+  284  cd -
+  285  ls
+  286  cd results
+  287  ls
+  288  ls -R
+  289  /mnt/c/Users/Barath\ Vikraman/...
+  290  cd -
+  291  /mnt/c/Users/Barath\ Vikraman/...
+  292  cd ~
+  293  /mnt/c/Users/Barath\ Vikraman/...
+  294  ls /mnt/c/Users/Barath\ Vikraman/
+  295  cd BM954-Research-Project/
+  296  ls
+  297  cd sequences
+  298  ls
+  299  mafft
+  300  ls
+  301  cd BM954-Research-Project/
+  302  cd /mnt/c/Users/Barath\ Vikraman/BM954-Research-Project/sequences
+  303  ls
+  304  mafft
+  305  mafft --auto kbp_interpro_similar.fasta > kbp_interpro_similar_aligned.fasta
+  306  cd BM954-Research-Project/
+  307  cd sequences/
+  308  figtree uniprot_aligneddd.trimal.fasta.treefile
+  309  /mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences
+  310  /mnt/c/Users/Barath Vikraman/BM954-Research-Project
+  311  /mnt/c/Users/Barath Vikraman/
+  312  /mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences
+  313  ls
+  314  BM954-Research-Project/
+  315  cd BM954-Research-Project/
+  316  ;s
+  317  ls
+  318  cd sequences
+  319  ls
+  320  cd ..
+  321  cd
+  322  cd..
+  323  cd BM954-Research-Project/
+  324  cd sequences/
+  325  ls
+  326  ls /mnt/c/Users/Barath\ Vikraman/
+  327  cd ..
+  328  cd..
+  329  cd =
+  330  cd-
+  331  cd ~
+  332  cd /mnt/c/Users/Barath\ Vikraman/BM954-Research-Project/sequences
+  333  ls
+  334  figtree uniprot_aligneddd.trimal.fasta.treefile
+  335  ls
+  336  cd BM954-Research-Project/
+  337  ls
+  338  cd sequences/
+  339  ls
+  340  pwd
+  341  ls -la
+  342  mount | grep /mnt
+  343  ls
+  344  cd ..
+  345  pwd
+  346  ls -la
+  347  mount | grep /mnt
+  348  ls
+  349  cd sequences/
+  350  ls
+  351  cd..
+  352  cd ..
+  353  cd ~
+  354  cd mnt
+  355  cd ..
+  356  cd mnt
+  357  cd /mnt
+  358  cd "/mnt/c/Users/Barath Vikraman/BM954-Research-Project"/
+  359  ls
+  360  cd sequences
+  361  ls
+  362  mafft
+  363  mafft --auto uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_01 > aligned.fasta
+  364  mafft --auto uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_01.fasta > aligned.fasta
+  365  ls
+  366  git status
+  367  cd ..
+  368  git add papers/
+  369  git status
+  370  git commit -m "add papers"
+  371  git push
+  372  lobsangandA1&
+  373  git push
+  374  git add
+  375  git push
+  376  cd ..
+  377  ssh-keygen -t rsa -b 4096
+  378  cd ~/.ssh
+  379  ls
+  380  cat id_rsa.pub
+  381  cd 
+  382  cd ~
+  383  cd /mnt/c/Users/Barath Vikraman
+  384  cd ~
+  385  cd "/mnt/c/Users/Barath Vikraman"
+  386  ls
+  387  rm .git
+  388  ls -la
+  389  ls l
+  390  ls -a
+  391  rm .gitconfig 
+  392  cd ..
+  393  cd Barath\ Vikraman/
+  394  ls
+  395  git status
+  396  git init
+  397  git status
+  398  git add papers
+  399  rm .git
+  400  rm -r .git
+  401  cd BM954-Research-Project/
+  402  git init
+  403  git status
+  404  git statu
+  405  git status
+  406  git push
+  407  Look for a .git directory in the project root.
+  408  git remote -v
+  409  git remote set-url origin git@github.com:barathvikramann-source/BM954-Research-Project.git
+  410  git status
+  411  git push
+  412  git status
+  413  cd papers/
+  414  ls
+  415  git log
+  416  git push origin master
+  417  git pull
+  418  git pull rebase 
+  419  git rebase --true
+  420  git rebase master
+  421  git push
+  422  git pull
+  423  git config pull.rebase true 
+  424  git pull
+  425  git push
+  426  git log
+  427  git add "C:\Users\Barath Vikraman\BM954-Research-Project\notes"
+  428  cd ..
+  429  git add notes
+  430  git status
+  431  cd notes
+  432  ls
+  433  git status
+  434  git add notes
+  435  cd ..
+  436  git status
+  437  cd sequences/
+  438  ls
+  439  vim  kbp_homologues.fasta  
+  440  git status
+  441  git add  kbp_homologues.fasta
+  442  git status
+  443  git restore --staged  kbp_homologues.fasta
+  444  git status
+  445  git restore  kbp_homologues.fasta
+  446  git status
+  447  cd ..
+  448  cd sequences/
+  449  ls
+  450  seqkit seq -m 120 -M 200  protein-similar-to-P0ADE6.fasta
+  451  sudo apt install seqkit
+  452  apt install seqkit
+  453  sudo su
+  454  su
+  455  sudo apt install seqkit
+  456  whoami
+  457  sudo apt install seqkit
+  458  seqkit seq -m 120 -M 200  protein-similar-to-P0AD
+  459  seqkit seq -m 120 -M 200  protein-similar-to-P0ADE6.fasta > len_120-200.fasta
+  460  mafft
+  461  history
+  462  cd ..
+  463  history
+  464  mafft --a > aligned.kbp similar proteins og.fasta
+  465  a > aligned kbp similar proteins og.fasta
+  466  mafft --auto "C:\Users\Barath Vikraman\BM954-Research-Project\sequences\kbp similar proteins og.fasta" > aligned kbp similar proteins og.fasta
+  467  ls
+  468  cd sequences
+  469  ls
+  470  mafft --auto kbp similar proteins og.fasta" > aligned kbp similar proteins og.fasta
+  471  mafft --auto kbp similar proteins og.fasta" > aligned kbp similar proteins og.fasta
+  472  mafft --auto kbp similar proteins og.fasta" > aligned kbp similar proteins og.fasta
+  473  mafft --auto_kbp_similar_proteins_og.fasta" > aligned_kbp_ similar_protein_og.fasta
+  474  mafft --auto kbp similar proteins og.fasta" > aligned_kbp_similar_proteins_og.fasta
+  475  mafft --auto kbp similar proteins og.fasta" > "aligned_kbp_similar_proteins_og.fasta"
+  476  history
+  477  mafft --auto "kbp similar proteins og.fasta" > aligned_kbp_similar_proteins_og.fasta
+  478  history
+  479  mafft --auto "uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_01.fasta" > aligned uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_01.fasta
+  480  mafft --auto "uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_01.fasta" > alignedd.fasta
+  481  seqkit seq -m 120 -M 200 aligned.fasta > refined aligned.fasta
+  482  seqkit seq -m 120 -M 200 "aligned.fasta"> refined aligned.fasta
+  483  history
+  484  time mafft --auto "uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_01.fasta" > uniprot_aligned.fasta
+  485  grep -c  "^>" uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_29.fasta
+  486  time mafft --auto "uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_29.fasta" > uniprot_aligneddd.fasta
+  487  cd ..
+  488  conda install iqtree
+  489  conda install trimal
+  490  trimal -h
+  491  trimal -in uniprot_aligneddd.fasta -out uniprot_aligneddd.trimal.fasta -automated1
+  492  cd BM954-Research-Project/
+  493  cd sequences
+  494  trimal -in uniprot_aligneddd.fasta -out uniprot_aligneddd.trimal.fasta -automated1
+  495  iqtree -s  uniprot_aligneddd.trimal.fasta -m TEST
+  496  conda install figtree
+  497  fig tree
+  498  figtree
+  499  iqtree -s  uniprot_aligneddd.trimal.fasta -m DAYHOFF+G4 -B 1000
+  500  iqtree -s  uniprot_aligneddd.trimal.fasta -m DAYHOFF+G4 -B 1000 --redo-tree
+  501  ls -ltrh
+  502  less uniprot_aligneddd.trimal.fasta.treefile 
+  503  figtree uniprot_aligneddd.trimal.fasta.treefile 
+  504  /mnt/c/Users/Barath Vikraman/BM954-Research-Project/sequences
+  505  cd /mnt/c/Users/Barath\ Vikraman/BM954-Research-Project/sequences
+  506  ls sequences
+  507  ls
+  508  figtree uniprot_aligneddd.trimal.fasta.treefile
+  509  cd BM954-Research-Project/
+  510  cd sequences
+  511  igtree uniprot_aligneddd.trimal.fasta.treefile
+  512  figtree uniprot_aligneddd.trimal.fasta.treefile
+  513  whoami
+  514  ls
+  515  cd
+  516  cd..
+  517  cd -\
+  518  wsl --update
+  519  cd /mnt/c/Users/Barath\ Vikraman/BM954-Research-Project/sequences
+  520  figtree uniprot_aligneddd.trimal.fasta.treefile
+  521  cd /mnt/c/Users/Barath\ Vikraman/BM954-Research-Project/sequences
+  522  cd..
+  523  cd -
+  524  cd /mnt/c/Users/Barath\ Vikraman/BM954-Research-Project/
+  525  ls
+  526  cd /mnt/c/Users/Barath\ Vikraman/BM954-Research-Project/sequences
+  527  ls -la "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/uniprot_aligneddd.trimal.fasta.treefile"
+  528  -la uniprot_aligneddd.trimal.fasta.treefile"
+  529  ls -la "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/uniprot_aligneddd.trimal.fasta.treefile"
+  530  cd -la "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/uniprot_aligneddd.trimal.fasta.treefile"
+  531  ls -la "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/uniprot_aligneddd.trimal.fasta.treefile"
+  532  cd sequences
+  533  ls -la "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/
+  534  cd /mnt/c/Users/Barath\ Vikraman/BM954-Research-Project/
+  535  ls sequences
+  536  cd sequences
+  537  ls uniprot_aligneddd.trimal.fasta.treefile"
+  538  ls uniprot_aligneddd.trimal.fasta.treefile
+  539  cd "/mnt/c/Users/Barath Vikraman/BM954-Research-Project"
+  540  ls
+  541  mkdir scripts
+  542  history > scripts/full_terminal_log.txt
