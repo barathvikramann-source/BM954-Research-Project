@@ -1,0 +1,60 @@
+  202  wget https://mafft.cbrc.jp/alignment/software/mafft_7.526-1_amd64.deb
+  203  sudo dpkg -i mafft_7.526-1_amd64.deb
+  204  wget https://mafft.cbrc.jp/alignment/software/mafft_7.526-1_amd64.deb
+  205  sudo dpkg -i mafft_7.526-1_amd64.deb
+  206  wget https://mafft.cbrc.jp/alignment/software/mafft_7.526-1_amd64.deb
+  207  sudo dpkg -i mafft_7.526-1_amd64.deb
+  208  wget https://mafft.cbrc.jp/alignment/software/mafft_7.526-1_amd64.deb
+  209  sudo dpkg -i mafft_7.526-1_amd64.deb
+  210  $ sudo dpkg -i mafft_7.526-1_amd64.deb
+  211  sudo dpkg -i mafft_7.526-1_amd64.deb
+  225  conda install mafft
+  226  mafft -h
+  241  time mafft --reorder kbp_combined.fa > kbp_combined_aligned.fa
+  268  mafft --auto kbp_interpro_similar.fasta > kbp_interpro_similar_aligned.fasta
+  274  mafft
+  299  mafft
+  304  mafft
+  305  mafft --auto kbp_interpro_similar.fasta > kbp_interpro_similar_aligned.fasta
+  308  figtree uniprot_aligneddd.trimal.fasta.treefile
+  334  figtree uniprot_aligneddd.trimal.fasta.treefile
+  362  mafft
+  363  mafft --auto uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_01 > aligned.fasta
+  364  mafft --auto uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_01.fasta > aligned.fasta
+  460  mafft
+  464  mafft --a > aligned.kbp similar proteins og.fasta
+  466  mafft --auto "C:\Users\Barath Vikraman\BM954-Research-Project\sequences\kbp similar proteins og.fasta" > aligned kbp similar proteins og.fasta
+  470  mafft --auto kbp similar proteins og.fasta" > aligned kbp similar proteins og.fasta
+  471  mafft --auto kbp similar proteins og.fasta" > aligned kbp similar proteins og.fasta
+  472  mafft --auto kbp similar proteins og.fasta" > aligned kbp similar proteins og.fasta
+  473  mafft --auto_kbp_similar_proteins_og.fasta" > aligned_kbp_ similar_protein_og.fasta
+  474  mafft --auto kbp similar proteins og.fasta" > aligned_kbp_similar_proteins_og.fasta
+  475  mafft --auto kbp similar proteins og.fasta" > "aligned_kbp_similar_proteins_og.fasta"
+  477  mafft --auto "kbp similar proteins og.fasta" > aligned_kbp_similar_proteins_og.fasta
+  479  mafft --auto "uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_01.fasta" > aligned uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_01.fasta
+  480  mafft --auto "uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_01.fasta" > alignedd.fasta
+  484  time mafft --auto "uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_01.fasta" > uniprot_aligned.fasta
+  486  time mafft --auto "uniprotkb_uniref_cluster_50_UniRef50_P0_2026_06_29.fasta" > uniprot_aligneddd.fasta
+  488  conda install iqtree
+  489  conda install trimal
+  490  trimal -h
+  491  trimal -in uniprot_aligneddd.fasta -out uniprot_aligneddd.trimal.fasta -automated1
+  494  trimal -in uniprot_aligneddd.fasta -out uniprot_aligneddd.trimal.fasta -automated1
+  495  iqtree -s  uniprot_aligneddd.trimal.fasta -m TEST
+  499  iqtree -s  uniprot_aligneddd.trimal.fasta -m DAYHOFF+G4 -B 1000
+  500  iqtree -s  uniprot_aligneddd.trimal.fasta -m DAYHOFF+G4 -B 1000 --redo-tree
+  502  less uniprot_aligneddd.trimal.fasta.treefile 
+  503  figtree uniprot_aligneddd.trimal.fasta.treefile 
+  508  figtree uniprot_aligneddd.trimal.fasta.treefile
+  511  igtree uniprot_aligneddd.trimal.fasta.treefile
+  512  figtree uniprot_aligneddd.trimal.fasta.treefile
+  520  figtree uniprot_aligneddd.trimal.fasta.treefile
+  527  ls -la "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/uniprot_aligneddd.trimal.fasta.treefile"
+  528  -la uniprot_aligneddd.trimal.fasta.treefile"
+  529  ls -la "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/uniprot_aligneddd.trimal.fasta.treefile"
+  530  cd -la "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/uniprot_aligneddd.trimal.fasta.treefile"
+  531  ls -la "/mnt/c/Users/Barath Vikraman/BM954-Research-Project/uniprot_aligneddd.trimal.fasta.treefile"
+  535  ls uniprot_aligneddd.trimal.fasta.treefile
+  537  mv uniprot_aligneddd.trimal.fasta.treefile ../phylogeny/
+  538  mv uniprot_aligneddd.trimal.fasta.bionj ../phylogeny/
+  544  history | grep -E "mafft|trimal|iqtree" > my_commands.txt

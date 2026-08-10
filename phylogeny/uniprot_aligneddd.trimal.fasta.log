@@ -1,0 +1,221 @@
+IQ-TREE version 3.1.2 for Linux ARM 64-bit built May 17 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    LAPTOP-HKK1R15F (SSE4.2, 7 GB RAM)
+Command: iqtree -s uniprot_aligneddd.trimal.fasta -m DAYHOFF+G4 -B 1000 --redo-tree
+Seed:    67043 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Jun 30 12:31:42 2026
+Kernel:  SSE2 - 1 threads (8 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 8 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file uniprot_aligneddd.trimal.fasta ... Fasta format detected
+Reading fasta file: done in 0.00379705 secs using 2.686% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.000763178 secs using 6.945% CPU
+Alignment has 76 sequences with 147 columns, 105 distinct patterns
+75 parsimony-informative, 13 singleton sites, 59 constant sites
+                                      Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 6.19888e-05 secs
+   1  sp|P0ADE6|KBP_ECOLI/1-149               0.00%    passed    100.00%
+   2  sp|P0ADE7|KBP_ECOL6/1-149               0.00%    passed    100.00%
+   3  tr|A0A085A0P1|A0A085A0P1_9ENTR/1-149    0.00%    passed    100.00%
+   4  tr|A0A090VTA1|A0A090VTA1_PSEVU/1-152    0.00%    passed     99.97%
+   5  tr|A0A0D7LP74|A0A0D7LP74_CITFR/1-149    0.00%    passed    100.00%
+   6  tr|A0A0F6B5J6|A0A0F6B5J6_SALT1/1-149    0.00%    passed    100.00%
+   7  tr|A0A0H2Z1W8|A0A0H2Z1W8_ECOK1/1-149    0.00%    passed    100.00%
+   8  tr|A0A0H3EK32|A0A0H3EK32_ECO8N/1-149    0.00%    passed    100.00%
+   9  tr|A0A0H3FMD6|A0A0H3FMD6_KLEAK/1-149    0.00%    passed     99.99%
+  10  tr|A0A0H3GSY1|A0A0H3GSY1_KLEPH/1-149    0.00%    passed     99.94%
+  11  tr|A0A0H3HEA7|A0A0H3HEA7_KLEM8/1-149    0.00%    passed     99.99%
+  12  tr|A0A0H3JJM9|A0A0H3JJM9_ECO57/1-149    0.00%    passed    100.00%
+  13  tr|A0A0H3NF10|A0A0H3NF10_SALTS/1-149    0.00%    passed    100.00%
+  14  tr|A0A0J8VIE4|A0A0J8VIE4_9ENTR/1-148    0.00%    passed    100.00%
+  15  tr|A0A0L0GJ23|A0A0L0GJ23_9ENTR/1-149    0.00%    passed     99.99%
+  16  tr|A0A181X4C6|A0A181X4C6_KLEOX/1-150    0.00%    passed     99.90%
+  17  tr|A0A1H3VNJ0|A0A1H3VNJ0_9GAMM/1-149    0.00%    passed     99.92%
+  18  tr|A0A1R0FZP4|A0A1R0FZP4_CITBR/1-149    0.00%    passed    100.00%
+  19  tr|A0A1W6B9X0|A0A1W6B9X0_9GAMM/1-146    0.68%    passed     99.98%
+  20  tr|A0A1X1E2C4|A0A1X1E2C4_9GAMM/1-146    0.68%    passed    100.00%
+  21  tr|A0A248KEL6|A0A248KEL6_SALBN/1-149    0.00%    passed    100.00%
+  22  tr|A0A2K1QE38|A0A2K1QE38_9GAMM/1-146    0.68%    passed     99.93%
+  23  tr|A0A2P5GIV8|A0A2P5GIV8_9ENTR/1-146    1.36%    passed     99.95%
+  24  tr|A0A2T7AKS8|A0A2T7AKS8_9ENTR/1-148    0.00%    passed     99.98%
+  25  tr|A0A2X4TP54|A0A2X4TP54_SALER/1-149    0.00%    passed    100.00%
+  26  tr|A0A370V7G8|A0A370V7G8_9ESCH/1-149    0.00%    passed    100.00%
+  27  tr|A0A384L847|A0A384L847_SHIFL/1-149    0.00%    passed    100.00%
+  28  tr|A0A4P6WS46|A0A4P6WS46_9ENTR/1-149    0.00%    passed    100.00%
+  29  tr|A0A5R9LPX3|A0A5R9LPX3_9ENTR/1-149    0.00%    passed     99.97%
+  30  tr|A0A6I5AGJ3|A0A6I5AGJ3_9ENTR/1-149    0.00%    passed    100.00%
+  31  tr|A0A6L5E382|A0A6L5E382_9ENTR/1-149    0.00%    passed    100.00%
+  32  tr|A0A6N6JXI0|A0A6N6JXI0_9ENTR/1-149    0.00%    passed    100.00%
+  33  tr|A0A7X1BPF9|A0A7X1BPF9_9ENTR/1-149    0.00%    passed    100.00%
+  34  tr|A0A9Q7ZJQ5|A0A9Q7ZJQ5_9ENTR/1-149    0.00%    passed    100.00%
+  35  tr|A0A9Q9S823|A0A9Q9S823_9ENTR/1-149    0.00%    passed     99.98%
+  36  tr|A0A9X4GKY3|A0A9X4GKY3_9ENTR/1-149    0.00%    passed    100.00%
+  37  tr|A0AAC8VQT9|A0AAC8VQT9_9ENTR/1-148    0.00%    passed     99.99%
+  38  tr|A0AAI8NJP8|A0AAI8NJP8_9ENTR/1-149    0.00%    passed     99.91%
+  39  tr|A0AAQ1GZE2|A0AAQ1GZE2_CITAM/1-149    0.00%    passed    100.00%
+  40  tr|A0AAX3LEH2|A0AAX3LEH2_9ENTR/1-149    0.00%    passed     99.94%
+  41  tr|A0ABM6S160|A0ABM6S160_9GAMM/1-146    0.68%    passed     99.99%
+  42  tr|A0ABP1W6D8|A0ABP1W6D8_9ENTR/1-148    0.00%    passed    100.00%
+  43  tr|A0ABR8TI47|A0ABR8TI47_9ESCH/1-148    0.00%    passed    100.00%
+  44  tr|A0ABS0ZU93|A0ABS0ZU93_9ENTR/1-149    0.00%    passed    100.00%
+  45  tr|A0ABT1BDM5|A0ABT1BDM5_9ENTR/1-149    0.00%    passed    100.00%
+  46  tr|A0ABU1DQS7|A0ABU1DQS7_9ESCH/1-149    0.00%    passed    100.00%
+  47  tr|A0ABV1PPR0|A0ABV1PPR0_9ENTR/1-148    0.00%    passed    100.00%
+  48  tr|A0ABX3XFI4|A0ABX3XFI4_9GAMM/1-149    0.00%    passed     99.53%
+  49  tr|A0ABX5T8U8|A0ABX5T8U8_9ENTR/1-149    0.00%    passed    100.00%
+  50  tr|A0ABY0JMI4|A0ABY0JMI4_9ENTR/1-149    0.00%    passed    100.00%
+  51  tr|A0ABY2Q2P3|A0ABY2Q2P3_9ENTR/1-149    0.00%    passed    100.00%
+  52  tr|A0ABY4RD58|A0ABY4RD58_9GAMM/1-146    0.68%    passed     99.99%
+  53  tr|A0ABY9SEW3|A0ABY9SEW3_9ENTR/1-147    0.68%    passed     96.91%
+  54  tr|A0ACA8DE75|A0ACA8DE75_9ENTR/1-149    0.00%    passed    100.00%
+  55  tr|A0ACD4AUI4|A0ACD4AUI4_9ENTR/1-149    0.00%    passed     99.97%
+  56  tr|A0ACD7U1Z5|A0ACD7U1Z5_KLEPN/1-149    0.00%    passed     99.97%
+  57  tr|A0ACD8BK76|A0ACD8BK76_9ENTR/1-149    0.00%    passed     99.99%
+  58  tr|A0ACH4E628|A0ACH4E628_SHIBO/1-149    0.00%    passed    100.00%
+  59  tr|A6T985|A6T985_KLEP7/1-149            0.00%    passed     99.94%
+  60  tr|A7MEA9|A7MEA9_CROS8/1-148            0.00%    passed    100.00%
+  61  tr|A7ZQ96|A7ZQ96_ECO24/1-149            0.00%    passed    100.00%
+  62  tr|A8ANM1|A8ANM1_CITK8/1-149            0.00%    passed    100.00%
+  63  tr|A9MG17|A9MG17_SALAR/1-149            0.00%    passed    100.00%
+  64  tr|B2U080|B2U080_SHIB3/1-149            0.00%    passed    100.00%
+  65  tr|B7LE82|B7LE82_ECO55/1-149            0.00%    passed    100.00%
+  66  tr|B7LVS3|B7LVS3_ESCF3/1-149            0.00%    passed    100.00%
+  67  tr|B7MKD6|B7MKD6_ECO45/1-149            0.00%    passed    100.00%
+  68  tr|B7UH84|B7UH84_ECO27/1-149            0.00%    passed    100.00%
+  69  tr|C9XUL9|C9XUL9_CROTZ/1-148            0.00%    passed    100.00%
+  70  tr|D2TM58|D2TM58_CITRI/1-149            0.00%    passed    100.00%
+  71  tr|K8A352|K8A352_9ENTR/1-148            0.00%    passed     99.41%
+  72  tr|Q32CR3|Q32CR3_SHIDS/1-149            0.00%    passed    100.00%
+  73  tr|Q3YYJ2|Q3YYJ2_SHISS/1-149            0.00%    passed    100.00%
+  74  tr|Q8ZML9|Q8ZML9_SALTY/1-149            0.00%    passed    100.00%
+  75  tr|V5TZK4|V5TZK4_9ENTR/1-148            0.00%    passed    100.00%
+  76  tr|W1DKC0|W1DKC0_KLEPN/1-149            0.00%    passed     99.94%
+****  TOTAL                                   0.07%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: sp|P0ADE7|KBP_ECOL6/1-149 is identical to sp|P0ADE6|KBP_ECOLI/1-149 but kept for subsequent analysis
+NOTE: tr|A0A9Q7ZJQ5|A0A9Q7ZJQ5_9ENTR/1-149 is identical to tr|A0A0D7LP74|A0A0D7LP74_CITFR/1-149 but kept for subsequent analysis
+NOTE: tr|A0A0H3NF10|A0A0H3NF10_SALTS/1-149 is identical to tr|A0A0F6B5J6|A0A0F6B5J6_SALT1/1-149 but kept for subsequent analysis
+NOTE: tr|A6T985|A6T985_KLEP7/1-149 is identical to tr|A0A0H3GSY1|A0A0H3GSY1_KLEPH/1-149 but kept for subsequent analysis
+NOTE: tr|A0A384L847|A0A384L847_SHIFL/1-149 is identical to tr|A0A0H3JJM9|A0A0H3JJM9_ECO57/1-149 but kept for subsequent analysis
+NOTE: tr|A0ABV1PPR0|A0ABV1PPR0_9ENTR/1-148 is identical to tr|A0A0J8VIE4|A0A0J8VIE4_9ENTR/1-148 but kept for subsequent analysis
+NOTE: tr|A9MG17|A9MG17_SALAR/1-149 is identical to tr|A0A2X4TP54|A0A2X4TP54_SALER/1-149 but kept for subsequent analysis
+NOTE: tr|A0A7X1BPF9|A0A7X1BPF9_9ENTR/1-149 is identical to tr|A0A6I5AGJ3|A0A6I5AGJ3_9ENTR/1-149 but kept for subsequent analysis
+NOTE: tr|A0ACD7U1Z5|A0ACD7U1Z5_KLEPN/1-149 is identical to tr|A0ACD4AUI4|A0ACD4AUI4_9ENTR/1-149 but kept for subsequent analysis
+NOTE: tr|V5TZK4|V5TZK4_9ENTR/1-148 is identical to tr|A7MEA9|A7MEA9_CROS8/1-148 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.00619197 secs using 10.38% CPU
+Identifying sites to remove: done in 0.000379801 secs using 99.79% CPU
+NOTE: 14 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: tr|A0A0H2Z1W8|A0A0H2Z1W8_ECOK1/1-149 (identical to sp|P0ADE6|KBP_ECOLI/1-149) is ignored but added at the end
+NOTE: tr|A0A0H3EK32|A0A0H3EK32_ECO8N/1-149 (identical to sp|P0ADE6|KBP_ECOLI/1-149) is ignored but added at the end
+NOTE: tr|B7LVS3|B7LVS3_ESCF3/1-149 (identical to sp|P0ADE6|KBP_ECOLI/1-149) is ignored but added at the end
+NOTE: tr|B7MKD6|B7MKD6_ECO45/1-149 (identical to sp|P0ADE6|KBP_ECOLI/1-149) is ignored but added at the end
+NOTE: tr|B7UH84|B7UH84_ECO27/1-149 (identical to sp|P0ADE6|KBP_ECOLI/1-149) is ignored but added at the end
+NOTE: tr|Q32CR3|Q32CR3_SHIDS/1-149 (identical to sp|P0ADE6|KBP_ECOLI/1-149) is ignored but added at the end
+NOTE: tr|A0A9X4GKY3|A0A9X4GKY3_9ENTR/1-149 (identical to tr|A0A0D7LP74|A0A0D7LP74_CITFR/1-149) is ignored but added at the end
+NOTE: tr|Q8ZML9|Q8ZML9_SALTY/1-149 (identical to tr|A0A0F6B5J6|A0A0F6B5J6_SALT1/1-149) is ignored but added at the end
+NOTE: tr|W1DKC0|W1DKC0_KLEPN/1-149 (identical to tr|A0A0H3GSY1|A0A0H3GSY1_KLEPH/1-149) is ignored but added at the end
+NOTE: tr|A0ACH4E628|A0ACH4E628_SHIBO/1-149 (identical to tr|A0A0H3JJM9|A0A0H3JJM9_ECO57/1-149) is ignored but added at the end
+NOTE: tr|A7ZQ96|A7ZQ96_ECO24/1-149 (identical to tr|A0A0H3JJM9|A0A0H3JJM9_ECO57/1-149) is ignored but added at the end
+NOTE: tr|B2U080|B2U080_SHIB3/1-149 (identical to tr|A0A0H3JJM9|A0A0H3JJM9_ECO57/1-149) is ignored but added at the end
+NOTE: tr|B7LE82|B7LE82_ECO55/1-149 (identical to tr|A0A0H3JJM9|A0A0H3JJM9_ECO57/1-149) is ignored but added at the end
+NOTE: tr|Q3YYJ2|Q3YYJ2_SHISS/1-149 (identical to tr|A0A0H3JJM9|A0A0H3JJM9_ECO57/1-149) is ignored but added at the end
+Alignment was printed to uniprot_aligneddd.trimal.fasta.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to uniprot_aligneddd.trimal.fasta.uniqueseq.phy
+WARNING: State(s) C rarely appear in alignment and may cause numerical problems
+Creating fast initial parsimony tree by random order stepwise addition...
+0.016 seconds, parsimony score: 345 (based on 88 sites)
+Generating 1000 samples for ultrafast bootstrap (seed: 67043)...
+
+NOTE: 5 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -2310.684
+2. Current log-likelihood: -2295.105
+3. Current log-likelihood: -2294.854
+Optimal log-likelihood: -2294.844
+Gamma shape alpha: 0.537
+Parameters optimization took 3 rounds (0.753 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 3.70101 secs using 99.95% CPU
+Computing ML distances took 3.702577 sec (of wall-clock time) 3.699555 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000207186 secs using 115.4% CPU
+Constructing RapidNJ tree: done in 0.000375032 secs using 131.5% CPU
+Computing RapidNJ tree took 0.001221 sec (of wall-clock time) 0.000817 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -2291.823
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.400 second
+Computing log-likelihood of 98 initial trees ... 5.056 seconds
+Current best score: -2260.763
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -2257.040
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -2252.934
+Iteration 10 / LogL: -2253.391 / Time: 0h:0m:23s
+Iteration 20 / LogL: -2255.855 / Time: 0h:0m:35s
+Finish initializing candidate tree set (19)
+Current best tree score: -2252.934 / CPU time: 30.599
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -2253.392 / Time: 0h:0m:52s (0h:2m:9s left)
+Iteration 40 / LogL: -2253.731 / Time: 0h:1m:7s (0h:1m:47s left)
+Iteration 50 / LogL: -2254.225 / Time: 0h:1m:24s (0h:1m:30s left)
+Log-likelihood cutoff on original alignment: -2283.726
+Iteration 60 / LogL: -2254.718 / Time: 0h:1m:44s (0h:1m:14s left)
+Iteration 70 / LogL: -2252.937 / Time: 0h:2m:1s (0h:0m:56s left)
+Iteration 80 / LogL: -2278.270 / Time: 0h:2m:18s (0h:0m:38s left)
+Iteration 90 / LogL: -2252.935 / Time: 0h:2m:33s (0h:0m:20s left)
+Iteration 100 / LogL: -2258.644 / Time: 0h:2m:51s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -2284.930
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.994
+TREE SEARCH COMPLETED AFTER 103 ITERATIONS / Time: 0h:2m:56s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -2252.934
+Optimal log-likelihood: -2252.934
+Gamma shape alpha: 0.541
+Parameters optimization took 1 rounds (0.192 sec)
+BEST SCORE FOUND : -2252.934
+Creating bootstrap support values...
+Split supports printed to NEXUS file uniprot_aligneddd.trimal.fasta.splits.nex
+Total tree length: 2.645
+
+Total number of iterations: 103
+CPU time used for tree search: 171.348 sec (0h:2m:51s)
+Wall-clock time used for tree search: 171.586 sec (0h:2m:51s)
+Total CPU time used: 176.574 sec (0h:2m:56s)
+Total wall-clock time used: 177.015 sec (0h:2m:57s)
+
+Computing bootstrap consensus tree...
+Reading input file uniprot_aligneddd.trimal.fasta.splits.nex...
+62 taxa and 423 splits.
+Consensus tree written to uniprot_aligneddd.trimal.fasta.contree
+Reading input trees file uniprot_aligneddd.trimal.fasta.contree
+Log-likelihood of consensus tree: -2252.945
+
+Analysis results written to: 
+  IQ-TREE report:                uniprot_aligneddd.trimal.fasta.iqtree
+  Maximum-likelihood tree:       uniprot_aligneddd.trimal.fasta.treefile
+  Likelihood distances:          uniprot_aligneddd.trimal.fasta.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          uniprot_aligneddd.trimal.fasta.splits.nex
+  Consensus tree:                uniprot_aligneddd.trimal.fasta.contree
+  Screen log file:               uniprot_aligneddd.trimal.fasta.log
+
+Date and Time: Tue Jun 30 12:34:39 2026
